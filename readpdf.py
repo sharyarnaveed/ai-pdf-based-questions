@@ -34,5 +34,10 @@ def extract_text(pdf_path="book.pdf"):
     if current_chunk:
         chunks.append(current_chunk.strip())
     
-    print(f"Total chunks created: {len(chunks)}")  # Debug: check chunk count
+    print(f"Total chunks created: {len(chunks)}")
+    
+    with open("chunks.txt", 'w', encoding='utf-8') as f:
+        for chunk in chunks:
+            f.write(chunk + "\n---CHUNK_SEPARATOR---\n")
+    # Debug: check chunk count
     return chunks

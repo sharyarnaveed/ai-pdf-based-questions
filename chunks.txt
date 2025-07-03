@@ -1,0 +1,4220 @@
+n
+o
+i
+t
+a
+d
+n
+u
+o
+F
+k
+o
+o
+B
+l
+a
+n
+o
+i
+t
+a
+N
+n
+o
+i
+t
+a
+d
+n
+u
+o
+F
+k
+o
+o
+B
+l
+a
+n
+o
+i
+t
+a
+N
+n
+o
+i
+t
+a
+d
+n
+u
+o
+F
+k
+o
+o
+B
+l
+a
+n
+o
+i
+t
+a
+N
+PREFACE
+CHEMISTRY GRADE - 9 is developed according to the National Curriculum 2006 and
+National Style Guide. It is being published since 2012 and in 2015 it was presented under the
+new management and supervision of textbook development principles and guidelines with new
+design and layout. n
+Chemistry is one of the most exciting and useful subjects.
+---CHUNK_SEPARATOR---
+It may not be aon easy subject
+for you. If you develop a sound approach to thinking through an idea and solving problem, you
+i
+will find it easy. This textbook provides several ways to develop this approacth. a
+This textbook has been made friendly by giving problem solving strategy. This strategy is
+to facilitate reasoning, not memorizing toward a solution. With edach skill or concept, self-
+assessment exercises have been given.
+---CHUNK_SEPARATOR---
+These exercises would encourage students to think,
+n
+develop skills and use information for a variety of purpose. u
+It is caused of development of skills such as questioning, observing, inferring, and
+predicting, measuring, hypothesizing, classifying, deosigning experiments, collecting data,
+analyzing data and interpreting data. At the end of each chapter summary of the key points is
+F
+given. This provides quick reviews of the salient features of each chapter.
+---CHUNK_SEPARATOR---
+Science, Technology and Society conknections have also been given in each chapter. These will help to understand the impact of science and technology on society. Students will
+o
+learn how scientists decide what constitute scientific knowledge, how science is related to other
+o
+ways of knowledge and how people have contributed to and influenced developments in science. This textbook has been deBveloped according to Student-Centered Inquiry Based (SCIB)
+criteria.
+---CHUNK_SEPARATOR---
+It will encourage students to develop skills and think scientifically rather than simply
+memorize and study scientiflic facts. It is also expected from teachers that they will engage
+a
+students in scientific inquiry activities to develop such skills. Our efforts aren to make textbooks teachable with quality, i. e. maintaining of standards. It
+is a continuous effort and we will get feedback of the yearly feasibility reports and redesign the
+o
+textbook every year.
+---CHUNK_SEPARATOR---
+The test items given in the exercises are for learning reinforcement. The
+i
+examination questions should be prepared according to the SLO’s and Bloom’s Taxonomy. t
+Qauality of Standards, Pedagogical Outcomes, Taxonomy Access and Actualization of
+Style is our motto. With these elaborations, this series of new development was presented for
+N
+use. After educational feedback, research, NCC Standards 2016, the book is being published
+again.
+---CHUNK_SEPARATOR---
+National Book Foundation
+م ِ ی ْ حِ ر َّ لا ن ِ م ّٰ ح ْ ر َّ لا ہِ ل ّٰ لا م ِ س ْ ِ ب
+ت للہا
+ہےلا او حمر ی نہا، ن انمہر اڑب جو عوشر سے مان کے
+Contents
+n
+o
+i
+Title Page
+t
+a
+Chapter 1 Fundamentals of chemistry d 6
+n
+Chapter 2 Structure of atoms u 30
+o
+F
+Chapter 3 Periodic table and periodicity of properties 42
+k
+Chapter 4 Structure of molecules 62
+o
+o
+Chapter 5 Physical states of matter 80
+B
+l
+Chapter 6 Solutions 106
+a
+n
+Chapter 7 Electrochemistry 126
+o
+i
+t
+Chapter 8 Chemical reactivity 150
+a
+N
+Glossary 162
+Answers 166
+5
+1 Fundamentals of Chemistry
+n
+o
+i
+t
+a
+d
+n
+u
+o
+F
+k
+o
+o
+B
+l
+a
+n
+o
+i
+t
+a
+N
+1
+FUNDAMENTALS OF
+n
+o
+CHEMISTRY
+i
+t
+a
+d
+Pre- Reading
+This is a 15 days lesson
+n
+After completing this lesson, you will be
+What are the simplest
+able to:
+u
+components of wood, rocks and
+• Change atomic mass, molecular mass and formula mass
+into gram atomic mass, gram molecular mass and groam living organisms? This is an
+formula mass.
+---CHUNK_SEPARATOR---
+age-old question. Ancient
+F
+• Differentiate between branches of chemistry. Greek Philosophers believed
+• Differentiate between empirical and molecular formula. that everything was made of an
+• Differentiate among elements, comkpounds and
+elemental substance. Some
+mixtures. o believed that substance to be
+• Differentiate between molecules and molecular ions
+• Define ions, molecular ions, foormula units and free water, other thought it was air. radicals.
+---CHUNK_SEPARATOR---
+Some other believed that there
+B
+• Define atomic number, atomic mass, atomic mass unit. were four elemental substances. • Define relative atomic mass based on C-12 scale. As 19th century began,
+• Distinguish between atoms and ions. l
+• Distinguish betweean ion and free radical. Classify the John Dalton proposed an
+chemical species from given examples. atomic theory. This theory led to
+n
+• Distinguish between matter and a substance. rapid progress in chemistry.
+---CHUNK_SEPARATOR---
+By
+• Describe how Avogadro’s number is related to a mole of
+o the end of the century however,
+any substance. Distinguish among the terms gram
+atomic miass, gram molecular mass and gram formula further observations exposed
+masst. the need for a different atomic
+• Idaentify the representative particles of elements and theory. 20th century led to a
+compounds. N picture of an atom with a
+• Identify and provide example of different branches of
+complex internal structure. chemistry.
+---CHUNK_SEPARATOR---
+• Relate gram atomic mass, gram molecular mass and A major goal of this chapter
+gram formula mass to mole. is to acquaint you with the
+fundamental concepts about
+matter. In this chapter you will
+learn some basic definitions to understand matter. This knowledge will help you in grade XI. 7
+1 Fundamentals of Chemistry
+Do You Know?
+Reading Do you know the debate going on for centuries
+about the corpuscular nature of matter? An ancient
+Greek philosopher, Empedocles thought that all
+1.
+---CHUNK_SEPARATOR---
+1 BRANCHES OF materials are made up of four things called elements:
+1. Earth 2. Air 3. Water 4. Fire
+CHEMISTRY Plato adopted Empedocles theory and coined
+the term element to describe these four subsntances. His
+successor, Aristotle also adopted the concept of four
+Chemistry is defined as the science that
+elements. He introduced the idea that eolements can be
+examines the materials of the universe and differentiated on the basis of properties such as hot
+i
+changes that these materials undergo.
+---CHUNK_SEPARATOR---
+versus cold and wet versus dry. For example, heating
+t
+clay in an oven could be thought of as driving of water
+The study of chemistry is commonly and adding fire, transforminag clay into a pot. Similarly
+divided into eight major branches: water (cold & wet) falls from the sky as rain, when air
+d
+(hot and wet) cools down. The Greek concept of four
+1. Physical Chemistry
+elements existed for more than two thousand years.
+---CHUNK_SEPARATOR---
+n
+The branch of Chemistry that deals
+with laws and theories to understand the structureu and changes of matter is called
+Physical Chemistry. oSociety, Technology and Science
+2. Organic Chemistry:
+Archimedes was a Greek philosopher and
+F
+The branch of Chemistry that deals with mathematician and inventor of many war
+substances containing carbon ( Except m achines.
+---CHUNK_SEPARATOR---
+Greek emperor gave him the task to
+kdetermine whether his crown was made of pure
+carbonates, bicarbonates, oxides and
+gold or impure gold. Archimedes took the task
+carbides. o
+and started thinking on it. He knew that the
+3. Inorganic Chemistry: volume of an object determines the volume of the
+o
+liquid it displaces, when submerged in the liquid.
+---CHUNK_SEPARATOR---
+The branch of Chemistry that deals with
+B One day when he was taking bath, he observed
+elements and their compounds except
+that more water overflowed the bath tank as he
+organic compounds is called Inorganic
+sank deeper into the water. He also noticed that
+Chemistry. l he felt weightless as he submerged deeper in the
+a
+4. Biochemistry: bath tank. From these observations he concluded
+that the loss in weight is equal to the weight of
+The branch ofn Chemistry that deals with
+water overflowed.
+---CHUNK_SEPARATOR---
+Thinking this he at once
+physical a o nd chemical changes that designed an experiment in his mind to check the
+occur in living organisms is called purity of crown. He thought, he should weigh the
+i
+Biochemistry. crown and equal weight of the pure gold. Both
+t
+should be dipped in water in separate containers,
+5. Inadustrial Chemistry:
+since every substance has different mass to
+The branch of Chemistry that deals with volume ratio.
+---CHUNK_SEPARATOR---
+If the crown was made of pure gold,
+N
+the methods and use of technology in it would displace same weight of water as an
+equal weight of pure gold. If the crown is impure,
+the large-scale production of useful
+it would displace different mass of water than the
+substances is called industrial
+pure gold. Thinking this, he was so excited that he
+chemistry. ran from the bath shouting “Eureka” which means
+I have found it.
+---CHUNK_SEPARATOR---
+Like Archimedes discovery,
+science developed through observations and
+experiments rather than by speculation alone. Teacher’s Point
+Teacher may give examples of branches of Chemistry applied in daily life. 8
+1 Fundamentals of Chemistry
+6. Nuclear Chemistry:
+The branch of Chemistry that deals with the changes that occur in atomic nuclei is called
+nuclear chemistry. 7.
+---CHUNK_SEPARATOR---
+Environmental Chemistry:
+The branch of Chemistry that deals with the chemicals and toxic substances that pollute
+the environment and their adverse effects on human beings is called envnironmental
+chemistry. o
+8. Analytical Chemistry:
+i
+The branch of Chemistry that deals with the methods and instrumentst for determining the
+composition of matter is called Analytical Chemistry. a
+d
+1. 1. 1 Differentiation between Branches of Chemistry
+Vinegar contains 5% acetic acid.
+---CHUNK_SEPARATOR---
+Acetic acid (CHnCOOH) is a colourless liquid
+3
+that has characteristic vinegar like smell. It is used to fulavour food. Various types of studies
+on this compound can help you to
+Society, Technology and Science
+o
+differentiate between various branches of Theories are tentative. They may change
+chemistry. Fif they do not adequately provide explanation of
+the observed facts. The work of scientists help to
+1. Explanation of its transformation into change existing theories of the time.
+---CHUNK_SEPARATOR---
+In 1803, the
+kBritish chemist John Dalton presented a scientific
+gaseous state or solid state,
+theory on the existence and nature of matter. This
+o
+applications of laws and theories to theory is called Dalton’s atomic theory. Main
+postulates of his theory are as follows:
+understand its structure ios physical
+1. All elements are composed of tiny
+chemistry. B indivisible particles called atoms. 2. Atoms of a particular element are
+2. Since this is a carbon compound, its
+identical.
+---CHUNK_SEPARATOR---
+They have same mass and
+method of preparations and study of
+l same volume. its physicaal and chemical 3. During chemical reaction atoms combine
+characteristics is organic or separate or re-arrange. They combine
+n
+in simple ratios. chemistry. 4. Atoms can neither be created nor
+o
+destroyed. 3. But the study of its component
+i Dalton was able to explain quantitative
+t elements, carbon, hydrogen and results that scientists of his time had obtained in
+aoxygen is inorganic chemistry.
+---CHUNK_SEPARATOR---
+This their experiments. He nicely explained the law of
+chemical combinations. His brilliant work became
+is because inorganic chemistry deals
+N the main stimulus for the rapid progress of the
+with elements and their compounds chemistry during nineteenth century, However,
+series of experiment that were performed in
+except carbon compounds.
+---CHUNK_SEPARATOR---
+1850’s and beginning of twentieth century clearly
+However, some carbon compounds
+demonstrated that atom is divisible and consists of
+such as CO , CO, metal carbonates, subatomic particles, electrons, protons and
+2 neutrons. Also the atoms of an element may differ
+hydrogen carbonates and carbides
+in masses (such atoms are called isotopes). Thus
+are studied in inorganic chemistry. some of the postulates of Dalton’s atomic theory
+were found defective and were changed. 4.
+---CHUNK_SEPARATOR---
+The study of chemical reactions that
+acetic acid undergoes in the bodies of human beings is biochemistry. 9
+1 Fundamentals of Chemistry
+5. Use of technology and ways to obtain acetic acid on the large scale is industrial
+chemistry. 6. The study of the effect of radioactive radiations or neutron on this compound or its
+component elements is nuclear chemistry. 7.
+---CHUNK_SEPARATOR---
+The study of any adverse effects of this compound or the compounds that are
+n
+derived from it, on the humans is environmental chemistry. o
+8. The method and instruments used to determine its percentage composition, melting
+point, boiling point etc is analytical chemistry. i
+t
+a
+Example 1. 1: Identifying examples of different branches of chemistry
+d
+Identify the branch of chemistry in each of the following examples:
+n
+1.
+---CHUNK_SEPARATOR---
+Photosynthesis produces glucose and oxygen from carbon dioxide and water in
+u
+presence of chlorophyll and sunlight. 2. Plantation helps in overcoming green houseo effect. 3. Haber’s process converts large quantities oFf hydrogen and nitrogen into ammonia (NH ). 3
+4. Ammonia is a colourless gas with pung ent irritating odour. It is highly soluble in water. k
+5. A chemist performed an experiment to check the percentage purity of a sample of
+glucose (C H O ). o
+6 12 6
+6.
+---CHUNK_SEPARATOR---
+An analyst determines thaot NO is responsible for acid rain. 2
+7. Chlorofluorocarbon cBompounds are responsible for the depletion of ozone layer. 8. α-particles (He++) when bombard on nitrogen atom, a proton is emitted. l
+Problem Solving strategy:
+a
+Concentrate on the basic definition of each branch of chemistry and identify branch of
+n
+chemistry in each example. o
+Solution:
+i
+1. Biochemistry, since photosynthesis is a chemical reaction that occurs in plants
+t
+(living organism). a
+2.
+---CHUNK_SEPARATOR---
+Environmental chemistry, since green house effect is an environmental problem. N
+3. Industrial chemistry, since large scale production of any substance is the subject of
+industrial chemistry. 4. Inorganic chemistry, since it deals with properties of inorganic compounds. 5. Analytical chemistry, since it deals with analysis of a compound, whether organic or
+inorganic in nature. 6. Environmental chemistry, since acid rain is an environmental problem. 7.
+---CHUNK_SEPARATOR---
+Environmental chemistry, since depletion of ozone layer is environmental problem. 8. Nuclear chemistry, since nuclear change can emit protons. 10
+1 Fundamentals of Chemistry
+Self-Assessment Exercise 1. 1
+Identify the branch of chemistry that is related to the following information:
+1. Hair contain a special class of proteins
+called keratins, which are present in Society, Technology and Science
+n
+Molecularity of the physical world
+nails and wool.
+---CHUNK_SEPARATOR---
+Proteins contain chains
+World is composed of a few more
+o
+of C-atoms. than a hundred elements. Elements are
+building blocks of all the subistances that make
+2. Acetylene is the simplest hydrocarbon
+up all living and non-livintg things. This means
+that contains carbon-carbon triple bond. elements are buildinag blocks for everything in
+Hydrocarbons are the compounds of the universe. The same elements that make
+d
+carbon and hydrogen. up earth also make up moon.
+---CHUNK_SEPARATOR---
+A careful
+observation of the physical world reveals that
+n
+3. White lead is a pigment used by artists
+matter usually occurs as mixtures. Most of the
+for centuries, the metal Pb in the compuonents of these mixtures are elements
+compound is extracted from its ore, and compounds that exist as molecules. Only
+o
+noble gases exist as monoatomic molecules,
+galena (PbS). other substances exist as polyatomic
+F
+4. Sulphuric acid (HSO ) is extremely molecules.
+---CHUNK_SEPARATOR---
+Air consists of many elements and
+2 4
+compounds all existing in molecular form. For
+corrosive to skin. kinstance O , N , CO , H O and the noble
+2 2 2 2
+5. Gases can be compressed by applying gases. Water a molecular substance cover
+o
+70% of the earth’s crust. It also fills the empty
+pressure. o under the earth. Rocks and earth are mixtures
+6. Meat, Milk and eggs contain long chains
+of numerous compounds. Clay and sand
+of carbon compoundBs.
+---CHUNK_SEPARATOR---
+consists of long chains of atoms called giant
+molecules. Petroleum and coal that are
+7. Element radium decays by emitting α-
+complex mixtures also contain hundreds of
+particles and is lconverted into another thousands of molecular compounds. Living
+a
+element radon. things contain thousands of different
+n substances such as carbohydrates, proteins,
+8. Calorimeter is a device that measures
+fats, lipids, DNA, RNA etc. All these
+the oamount of heat, a substance substances are molecular in nature.
+---CHUNK_SEPARATOR---
+absorbs on heating or emits on cooling. i
+t
+a
+N
+Reading
+1. 2 BASIC DEFINITIONS
+Some of the important definitions used to understand matter are given below:
+1. 2. 1 Elements, Compounds and Mixtures
+Anything that occupies space and has mass is called matter. Any matter that has a
+particular set of characteristics that differ from the characteristics of another kind of matter is
+called a substance.
+---CHUNK_SEPARATOR---
+For instance, oxygen, water, carbon dioxide, urea, glucose, common salt
+etc are different substances. 11
+1 Fundamentals of Chemistry
+A substance that cannot be converted to other simpler substances is called an
+element. For example substances like oxygen, hydrogen, iron, copper, aluminium etc are
+elements. An element is now defined as a substance whose all the atoms have the same atomic
+number.
+---CHUNK_SEPARATOR---
+A compound is a pure substance that consists of two or more elements held
+together in fixed proportions by natural forces called chemical bonds. The properties of
+n
+compounds are different from the properties of the elements from which they are formed. For
+o
+example, water, carbon dioxide, copper sulphate, sodium chloride etc are compounds. Elements
+and compounds have uniform composition throughout.
+---CHUNK_SEPARATOR---
+i
+t
+An impure substance that contains two or more pure substances that retain their
+a
+individual chemical characteristics is called a mixture. A mixture can be converted into two
+d
+or more pure substances by a physical method. Examples of mixture are air, water containing
+dissolved oxygen, table salt dissolved in water, salt + sand etc. An mixture that consists of two or
+more visibly different components is called a
+uScience Tit Bits
+heterogeneous mixture.
+---CHUNK_SEPARATOR---
+For example sand + salt, oil Bad breath may be good for you. oThe chemistry of garlic is not simple. Garlic
+floating on water etc. A mixture that consists of only
+contains more than 200 compounds. one phase is called a homogeneous mixture. FFor People who eat a lot of garlic have a lower
+example, sugar mixed in water, salt dissolved in water.
+---CHUNK_SEPARATOR---
+chance of getting stomach cancer, suffering
+from heart disease or having a stroke than
+Homogeneous mixtures also have kuniform
+people who eat little or no garlic. composition throughout. o
+In fact the entire physical world is made up of mixture of elements and compounds. o
+Most of its components are made up of molecules. B
+1. 2. 2 Atomic Number, Mass Number
+The number of proton s in the nucleus of an atom is known as its atomic number.
+---CHUNK_SEPARATOR---
+l
+For example, there is only one proton in the nucleus of H-atom; therefore its atomic number is
+a
+1. All the atoms of a given element have the same
+n
+number of protons and therefore the same atomic
+number. Do you othink atomic number of He is 2? What
+is the mass number of C-atom? The total number of
+i
+protons antd neutrons in an atom is known as its
+mass nuamber. NSome atoms of an element have different number of neutrons, such atoms are called
+isotopes. We will discuss isotopes in section 2.
+---CHUNK_SEPARATOR---
+2. No. of neutrons = mass number – atomic number
+Example 1. 2: Determining the number of protons and neutrons in an atom
+Atomic number of an element is 17 and mass number is 35.
+---CHUNK_SEPARATOR---
+How many protons and
+neutrons are in the nucleus of an atom of this element?
+Problem Solving Strategy:
+Number of protons are equal to atomic number and
+Number of neutrons = mass number – atomic number
+12
+1 Fundamentals of Chemistry
+Solution:
+Number of protons = atomic number = 17
+Number of neutrons = mass number – atomic number
+= 35-17 = 18
+1. 2.
+---CHUNK_SEPARATOR---
+3 Relative Atomic Mass and Atomic Mass Unit
+n
+The first quantitative information about atomic masses came from the work of Dalton, Gay
+Lussac, Lavoisier, Avogadro and Berzelius. By observing the proportions in wohich elements
+combine to form various compounds, nineteenth century chemists calculated relative atomic
+i
+masses. An atom is extremely small particle; therefore we cannot determine tthe mass of a single
+atom.
+---CHUNK_SEPARATOR---
+However, it is possible to determine the mass of one atom of an eleament relative to another
+experimentally. This can be done by assigning a value to the mass of one atom of a given
+d
+element, so that it can be used as standard. By international agreement in 1961, light isotope of
+n
+carbon C-12 has been chosen as a standard. This isotope of carbon(C-12) has been assigned
+a mass of exactly 12 atomic mass unit. This value has beenu determined accurately using mass
+spectrometer.
+---CHUNK_SEPARATOR---
+The mass of atoms of all other elements are compared to the mass C-12. Thus
+o
+“the mass of an atom of an element relative to the mass of an atom of C-12 is called its
+F
+relative atomic mass”. One atomic mass unit (amu) is defined as a mass exactly equal to one-twelfth the mass
+k
+of one C-12 atom. o
+Mass of one C-12 atom = 12 amu
+omass of one C-12 atom
+1amu=
+B 12
+A hydrogen atom is 8. 40% as massive as the standard C-12 atom. Therefore, relative
+atomic mass of hydrogen. l
+a 8.
+---CHUNK_SEPARATOR---
+40
+= x 12 amu
+n 100
+=1. 008 amu
+o
+Similarly, relative atomic masses of O, Na, Al are 15. 9994 amu, 22. 9898 amu, 26. 9815
+i
+amu respectively. Table 1. 1 shows the relative atomic masses of some elements. t
+a Table 1. 1 relative atomic masses of some elements
+Relative atomic Relative atomic
+N
+Element Element
+mass mass
+H 1. 008 amu Al 26. 9815 amu
+N 14. 0067amu S 32. 06 amu
+O 15. 9994amu Cl 35. 453 amu
+Na 22. 9898 amu Fe 55. 847 amu
+13
+1 Fundamentals of Chemistry
+1. 2.
+---CHUNK_SEPARATOR---
+4 Empirical Formula, Molecular Formula
+Recall that the chemical formula of a compound tells us which elements are present in it
+and the whole number ratio of their atoms. In a chemical formula element’s symbol and
+numerical subscripts show the type and the number of each atom in a compound. There are
+several types of chemical formulas for a compound. Here you will learn about two types of
+chemical formulas. n
+1.
+---CHUNK_SEPARATOR---
+Empirical Formula
+o
+The empirical formula of a compound is the chemical formula that gives the
+i
+simplest whole-number ratio of atoms of each element. For example in compound hydrogen
+t
+peroxide there is one H atom for every O atom. Therefore, simplest ratio of hydrogen to oxygen
+a
+is 1: 1. So the empirical formula of hydrogen peroxide is written as HO. d
+The simplest ratio between C, H and O atoms in glucose is 1 : 2 : 1. What is the empirical
+formula of glucose? n
+2.
+---CHUNK_SEPARATOR---
+Molecular Formula u
+A molecular formula gives the actual whole number ratio of atoms of each element
+o
+present in a compound. For example there are actually two H atoms and two O atoms in
+F
+each molecule of hydrogen peroxide. Therefore, actual ratio of hydrogen to oxygen atoms is
+2 : 2. So molecular formula of hydrogen perox ide is H O. k 2 2
+The actual ratio between C, H and O atoms in a glucose molecule is 6 : 12 : 6.
+---CHUNK_SEPARATOR---
+What is
+o
+the molecular formula of glucose?
+An empirical formula shows theo simplest number of atoms of each element in a compound
+whereas the molecular formula shows the actual number of aotms of each element in the
+B
+molecule of a compound. Benzene is a compound of carbon and hydrogen. It contains one C atom for every H atom. l
+There are actually six C atoms and six hydrogen atoms in each molecule of benzene. Identify
+a
+empirical and molecular formula for benzene from the following formulas.
+---CHUNK_SEPARATOR---
+n
+C H , CH
+6 6
+o
+Molecular formulas for water and carbon dioxide are H O and CO respectively. What are
+2 2
+empirical foirmulas for these compounds?
+t
+a
+Self-Assessment Exercise 1. 2
+N
+Write the empirical formulas for the compound containing carbon to hydrogen in the
+following ratios:
+(a) 1:4 (b) 2:6 (c) 2:2 (d) 6:6
+For many compounds, empirical and molecular formulas are same. For example water
+(H O), carbon dioxide (CO ) ammonia (NH ), methane (CH ), sulphur dioxide (SO ) etc.
+---CHUNK_SEPARATOR---
+2 2 3 4 2
+Can you show it why?
+Teacher’s Point
+A teacher may give numerical example to determine E. F of a Compound. 14
+1 Fundamentals of Chemistry
+Self-Assessment Exercise 1. 3
+1. Aspirin is used as a mild pain killer. There are nine carbon atoms, eight hydrogen atoms
+and four oxygen atoms, in this compound. Write its empirical and molecular formulas. 2. Vinegar is 5% acetic acid. It contains 2 carbon atoms, four hydrogen atoms and 2 oxygen
+n
+atoms. Write its empirical and molecular formulas.
+---CHUNK_SEPARATOR---
+o
+3. Caffeine (CH N O ) is found in tea and coffee. Write the empirical formula for caffeine. 8 10 4 2 i
+t
+a
+Reading
+d
+1. 2. 5 Molecular Mass and Formula Mass
+n
+Molecular mass is the sum of atomic masses of all the atoms present in the
+u
+molecule. All you have to do is to add up the atomic masses of all the atoms in the compound. o
+For example,
+F
+Molecular mass of water H O = 2(atomic mass of H) + atomic mass of oxygen
+2
+= 2(1. 008) + 16. 00
+k
+= 2. 016 + 16. 00
+o
+= 18. 016amu
+o
+Example 1.
+---CHUNK_SEPARATOR---
+3: Determining molecular mass
+B
+1. Determine the molecular mass of glucose C H O which is also known as blood sugar. 6 12 6
+2. Determine the molecullar mass of naphthalene C H , which is used in mothballs. 10 8
+a
+Problem solving strategy:
+n
+Multiply atomic masses of carbon, hydrogen and oxygen by their subscripts and add. Solution: o
+1. Moleculiar mass of C H O = 6(12. 00) + 12(1. 008) + 6(16. 00)
+6 12 6
+t
+=180. 096 amu
+a
+2.
+---CHUNK_SEPARATOR---
+Molecular mass of C H = 12 x 10 + 1 x 8
+N 10 8
+= 120 + 8 = 128 amu
+The term molecular mass is used for molecular compounds. Whereas, the term formula
+mass is used for ionic compounds. Ionic compounds consist of arrays of oppositely charged ions
+rather than separate molecules. So we represent an ionic compound by its formula unit. A
+formula unit indicates the simplest ratio between cations and anions in an ionic compound. For
+example, the common salt consists of Na+ and Cl− ions.
+---CHUNK_SEPARATOR---
+It has one Na+ ion for every Cl−ion. So
+formula unit for common salt is NaCl. The sum of the atomic masses of all the atoms in the formula unit of a substance is called
+formula mass. 15
+1 Fundamentals of Chemistry
+Example 1. 4: Determining formula mass
+1. Sodium Chloride, also called as table salt is used to flavour food, preserve meat, and in
+the preparation of large number of compounds. Determine its formula mass. 2. Milk of magnesia which contains Mg(OH) , is used to treat acidity.
+---CHUNK_SEPARATOR---
+Determine its formula
+2
+mass. n
+Problem solving strategy:
+o
+Add the atomic masses of all the atoms in the formula unit. i
+Solution: t
+1. Formula mass of NaCl = 1 x Atomic mass of Na + 1 x Atomaic mass of Cl
+= 1 x 23 + 1 x 35. 5 d
+= 58. 5amu
+nImportant information
+2. Formula mass of Mg(OH) = 24 + 16x2 + 1x2 Many scientists regarded atom as
+2 mereuly a convenient mental construct and
+= 24 + 32 + 2 nothing more. This is because atom is so
+osmall that it cannot be seen with the naked
+= 58 amu
+eye.
+---CHUNK_SEPARATOR---
+Today, however, we have sophisticated
+F
+instruments to weigh atoms and even
+visualize them. Figure 1. 1 shows an image of
+gold atoms on the surface. Self-Assessment Exercise 1. 4 k
+o
+1. Potassium Chlorate (KClO ) is used
+3
+o
+commonly for the laboratory preparation of
+oxygen gas. Calculate Bits formula mass. 2. When baking soda, NaHCO is heated
+3
+l
+carbon dioxide is released, which is
+a
+responsible for the rising of cookies and
+n
+bread.
+---CHUNK_SEPARATOR---
+Determine the formula masses of
+bakingo soda and carbon dioxide. Figure 1. 1 view of surface atoms of gold
+The image has been drawn by
+3. Folloiwing compounds are used as
+t computer from signal sent to it by an
+fertilizers. Determine their formula masses. a instrument called a scanning tunneling
+(i) Urea, (NH ) CO microscope. The computer has drawn gold
+N 2 2 atoms as topped peaks. (ii) Ammonium nitrate, NH NO. 4 3
+Reading
+1.
+---CHUNK_SEPARATOR---
+3 CHEMICAL SPECIES
+Most of the matter is composed of molecules or ions, formed by atoms. 16
+1 Fundamentals of Chemistry
+1. 3. 1 Ions (Cation, Anions), Molecular Ions and Free Radicals
+Atom is the smallest particle of an element that cannot exist in free state. It is electrically
+neutral. On the other hand an ion is a charged species formed from an atom or chemically
+bonded groups of atoms by adding or removing electrons.
+---CHUNK_SEPARATOR---
+Positively charged ions are called
+cations, whereas, the negatively charged ions are called anions. An ionic compound
+contains anions and cations in such number that the conmpound is
+electrically neutral. Metal atoms generally lose one or more
+o
+electrons and form cations. For example Na forms Na+ by losing
+i
+one electron, Ca forms Ca+2 by losing two electrons. The Non-metal
+t
+atoms usually gain one or more electronsa and form anions.
+---CHUNK_SEPARATOR---
+For
+example a chlorine atom gains one electron and forms Cl− ion. An
+d
+O-atom gains two electrons and forms O−2 ion. n
+Let us understand why an ion acquires a net positive or
+negative charge. Consider the fuormation of Na+ ion. Fig. 1. 2 Na+ ion
+Figure 1. 2 shows the sodium ion. Note that sodioum has a nucleus of 11 protons and 12
+neutrons. Thus its nucleus has a total charge of +11. Around the nucleus, there are 10 electrons,
+F
+with a total charge of -10.
+---CHUNK_SEPARATOR---
+The charge on the ion is +11 + (-10) = +1
+k
+o
+Self-Assessment Exercise 1. 5
+o
+Explain Why?
+B
+1. An oxide ion O−2 has –2 charge. 2. Magnesium ion, Mg+2 ha s +2 charge. l
+3. Sulphide ion, S−2 ahas –2 charge. n
+Readoing
+i
+Molecular Ion
+t
+Wahen a molecule loses or gains one or more electrons, the resulting species is
+called a molecular ion. For example O when loses one electron it forms O+ ion, but when it
+N 2 2
+absorbs an electrons it forms O− ion. These ions are called molecular ions.
+---CHUNK_SEPARATOR---
+Similarly N−, N+
+2 2 2
+etc are examples of molecular ions. These are short lived species and only exist at high
+temperature. Molecular ions do not form ionic compounds. Free Radicals
+A free radical is an atom which has an unpaired electron and bears no electrical
+charge. For example
+are free radicals
+17
+1 Fundamentals of Chemistry
+When substances like halogens are exposed to sun light, their molecules split up into free
+radicals.
+---CHUNK_SEPARATOR---
+Difference between Ion and Free Radical
+n
+Chlorine free radical Chloride ion
+o
+Which species has even number of electrons? Which species has odd number of
+electrons? i
+t
+A free radical has an unpaired electron, so it has odd number of aelectrons. A free radical
+is an electrically neutral species. Whereas an ion has even number of electrons, so it has no
+d
+unpaired electrons. n. Dot ( ) indicates an unpaired electron. u
+o
+Self-Assessment Exercise 1.
+---CHUNK_SEPARATOR---
+6
+F
+Identify ions, molecular ions and free radicals from the following species. k
+CN− ,He+2,N−3,CH+
+, o 4
+o
+Reading
+B
+1. 3. 2 Representiative Particles of Elements and Compounds
+l
+a
+The term representative particles refer to species present in a substance. These species
+are atoms, moleculesn or formula units. For instance water exists as molecules, carbon exists as
+atoms. o
+Example 1. 5i: Identifying representative particles of elements and compounds
+t
+Figure 1. 3 shows some molecules.
+---CHUNK_SEPARATOR---
+Identify particles of
+a
+elements and compounds. N
+Problem Solving Strategy:
+Elements have atoms of same sizes and compounds
+have atoms of different sizes. Solution:
+Particles of elements are A, C, D and E. Particles of Fig 1. 3 Some common molecules
+compounds are B and F. 18
+1 Fundamentals of Chemistry
+Molecules can also be classified as monoatomic or polyatomic. Inert gases consist of
+monoatomic molecules such as He, Ne, Ar, Kr, Rn. A molecule that contains only one atom
+is called monoatomic.
+---CHUNK_SEPARATOR---
+Molecules that contain two or more similar or different atoms are
+called polyatomic molecules. For example, H , O , HCl, NH etc are polyatomic molecules. 2 2 3
+n
+Self-Assessment Exercise 1. 7
+o
+1. Observe the given figure and identify the diagrams that represents the particles of :
+i
+a) An element whose particles are atoms. t
+b) An element whose particles are molecules. a
+c) A compound. d
+d) A mixture of an element and a compound. e) A mixture of two elements. n
+f) A mixture of two compounds.
+---CHUNK_SEPARATOR---
+u
+2. Observe the given figure and decide which diagram represents particles in an element,
+a compound or a mixture. o
+F
+k
+o
+o
+B
+Society, Technology and Science
+During 600 – 1600 AD, Chemical history
+Reading l
+was dominated by a pseudo-science called
+a
+alchemy. Earlier alchemists were obsessed with the
+1. 4 AVOGADnRO’S NUMBER idea of turning cheap metals into gold. They
+searched for ways to change less valued metals
+o such as lead into gold.
+---CHUNK_SEPARATOR---
+They could not succeed and
+AND MOLE
+wasted their time and money. Therefore, the works
+i of earlier alchemists handicapped progress of
+How tdo you count shoes? As shoes
+science. However, during that period they
+come ina pairs, so you would most likely count discovered many new processes such as distillation,
+sublimation and extraction. These processes are
+them by pairs rather than individually. Similarly
+N still in use today. Such processes are contributing a
+eggs, oranges etc.
+---CHUNK_SEPARATOR---
+are counted in dozens, but lot in the progress of science. This means the works
+paper by ream. Thus, the counting unit depends of different scientists at the same time handicap or
+promote the growth of science. on what you are counting. Chemists also use a practical unit for counting atoms, molecules and ions. They use a
+counting unit called mole to measure the amount of a substance. A mole is an amount of a substance that contains 6. 022 x 1023 particles of that
+substance.
+---CHUNK_SEPARATOR---
+This experimentally determined number is known as Avogadro’s number. It is
+represented by N. Just as a dozen eggs represent twelve eggs, a ream of paper represent 500
+A
+papers, a mole of a substance represents 6. 022 x 1023 representative particles of a substance. 19
+1 Fundamentals of Chemistry
+For example a mole of carbon is 6. 022 x 1023 atoms. A mole of sulphur is 6. 022 x 1023 atoms. A
+mole of water is 6. 022 x 1023 molecules. A mole of S-atoms A mole of C-atoms A pair of Shoes &
+(6.
+---CHUNK_SEPARATOR---
+022 x 1023 S-atoms) (6. 022 x 1023 C-atoms) a dozen eggs
+n
+o
+i
+Figure 1. 4 A mole of S-atoms, a mole of C-atoms & pair of Shoes & a dozen teggs
+What is the mass of one mole C-atoms? a
+Society, Technology and Science
+How many atoms are there in 32. 1 g of Size of the Mole
+d
+Entire population cannot count 1 mole of coins in a
+S-atoms?
+year. They neend about one million year to count
+Does a dozen eggs have same mass as a them.
+---CHUNK_SEPARATOR---
+So, when counting a pile of coins, it would not
+dozen bananas? Does a mole of carbon atoms be convenuient to count them one by one. The
+concept of mole has given a very simple method to
+have a different mass than a mole of sulphur
+count olarge number of items. Mole is not only a
+atoms? number but also represents definite amount of a
+suFbstance. Just as 6. 02 x 1023 carbon atoms weigh
+The mass of one mole of substance is
+12 g, 6. 02 x 1023 coins will also have a definite
+called as molar mass.
+---CHUNK_SEPARATOR---
+What are the molar
+mass. So an easy way is to weigh them. If you know
+k
+masses of carbon and sulphur? The term the mass of one coin, you can count them by
+weighing. representative particles in a substanceo are
+atoms, molecules, formula units or ions. For instance water exists as molecules, therefore, one
+o
+mole of water contains 6. 022 x 1023 molecules of water. Hydrogen exists as H molecules, so
+B 2
+one mole of hydrogen contain 6. 022 x 1023 molecules.
+---CHUNK_SEPARATOR---
+Carbon exists as atoms so 1 mole of
+carbon contains 6. 022 x 1023at oms. l
+1. 4. 3 Gram Atomic aMass, Gram Molecular Mass and Gram Formula Mass
+A mole of nS-atoms A mole of C- atoms
+(6. 022 x 1023 S-atoms) (6. 022 x 1023 C-atoms)
+o
+i
+t
+a
+N
+What is the mass of 6. 022 x 1023 S-atoms? What is the mass of one mole of C-atoms?
+Is this mass of S-atoms equal to its Is this mass of C-atoms equal to its
+atomic mass? atomic mass?
+Teacher’s Point
+Teacher may give more examples of mole.
+---CHUNK_SEPARATOR---
+20
+1 Fundamentals of Chemistry
+Atomic mass of an element expressed in grams is called gram atomic mass. Is the gram atomic mass of C-atoms 12 g?
+What is the gram atomic mass of S-atoms?
+If each of the carbon and sulphur sample shown above contains one mole of atoms, why do
+the samples have different masses?
+n
+Atomic mass of C = 12amu gram atomic mass of C = 12g
+o
+Atomic mass of Na = 23amu gram atomic mass of C = 23g
+Atomic mass of Zn = 63. 54amu gram atomic mass of C = 63i.
+---CHUNK_SEPARATOR---
+54g
+t
+Gram atomic mass of an element contains 1 mole of atoms. a
+Therefore,
+d
+Mass of 1 mole of C-atoms = 12g
+n
+Mass of 1 mole of Na-atoms = 23g
+u
+Mass of 1 mole of Zn-atoms = 63. 54g
+o
+A mole of H O -molecules A mole of C H O − molecules
+2 6 12 6
+F
+(6. 022 x 1023 H O-molecules) (6. 022 x 1023 C H O -molecules)
+2 6 12 6
+k
+18. 016g 180. 096g
+o
+o
+B
+l
+a
+n
+What is the mass of one mole of what is the mass of 6.
+---CHUNK_SEPARATOR---
+022 x 1023
+o
+water molecules? molecules of glucose?
+i
+Is this mass of water molecules is this mass of glucose molecules
+t
+eaqual to molecular mass of water? equal to molecular mass of glucose?
+MoNlecular mass of a substance expressed in grams is called gram molecular mass. Molecular mass of H O = 2 x 1. 008 + 16
+2
+= 18. 016amu
+So, gram molecular mass of H O = 18. 016g
+2
+Molecular mass of C H O = 6 x 12 + 12 x 1. 008 + 16 x 6
+6 12 6
+= 180. 096amu
+So, gram molecular mass of C H O = 180.
+---CHUNK_SEPARATOR---
+096g
+6 12 6
+21
+1 Fundamentals of Chemistry
+Formula mass of a substance expressed in gram is called gram formula mass. An ionic compound is represented by the formula unit that represents the simplest ratio
+between the ions of a compound. For example NaCl, KCl, CuSO etc. 4
+Formula mass of NaCl = 23 + 35. 5
+= 58. 5amu
+n
+Therefore, gram formula mass of NaCl = 58. 5g = mole of NaCl formula units. Formula mass of KCl = 39 + 35. 5 o
+= 74. 5amu i
+t
+So, gram formula mass of KCl = 74.
+---CHUNK_SEPARATOR---
+5g
+a
+Difference between the Terms Gram Atomic Mass, Gram Molecular Mass And
+d
+Gram Formula Mass
+(i) Gram atomic mass represents one mole of atomsn of an element, gram molecular
+mass represents one mole of molecules of a compound or an element that exists
+u
+in molecular state whereas gram formula mass represents one mole of ionic
+formula units of a compound. o
+(ii) Gram atomic mass contains 6. 022 x F 1023atoms, gram molecular mass contains
+6.
+---CHUNK_SEPARATOR---
+022 x 1023 molecules whereas gram formula mass contain 6. 022 x 1023formula
+units. k
+(iii) All of these quantities represent molar mass. Mass of one mole of a substance
+o
+expressed in grams is called molar mass. “Therefore, mole can be defined as
+atomic mass, molecular mass or formula mass expressed in grams”. o
+1. 5 CHEMICAL CALCULATIONS
+B
+In this section, you will learn about the chemical calculations based on the concept of
+mole and Avogadro’s numbelr. a
+1. 5.
+---CHUNK_SEPARATOR---
+1 Mole-Mass Calculations
+n
+Example 1. 5: Calculating mass of one mole of a substance
+o
+Calculate the molar masses of (a) Na (b) Nitrogen (c) Surcose C H O
+12 22 11
+i
+Problem stolving strategy:
+Ifa an element is a metal then its molar mass is its atomic mass expressed in grams (gram
+atoNmic mass). If an element exists as molecule, its molar mass is its molecular mass expressed
+in grams (gram molecular mass). Solution:
+a) 1 mole of Na = 23g
+b) Nitrogen occurs as diatomic molecules.
+---CHUNK_SEPARATOR---
+Molecular mass of N = 14 x 2
+2
+= 28amu
+Therefore, mass of 1 mole of N = 28 g
+2
+22
+1 Fundamentals of Chemistry
+c) Molecular mass of C H O = 12x12 + 1x22 + 16x11
+12 22 11
+= 144 + 22 + 176
+Therefore, mass of 1mole of sucrose = 342g
+n
+Self-Assessment Exercise 1. 8
+o
+Calculate the mass of one mole of (a) Copper (b) Iodine (c) Potassium (d) Oxygen
+i
+t
+Example 1. 5(a): Calculating the mass of a given number of moles of a substance
+a
+Oxygen is converted to ozone (O ) during thunder storms.
+---CHUNK_SEPARATOR---
+Cdalculate the mass of ozone
+3
+if 9. 05 moles of ozone is formed in a storm?
+n
+Problem solving strategy:
+u
+Ozone is a molecular substance. Determine its molar mass and use it to convert moles
+o
+to mass in grams. F
+9. 05 moles of O ⎯⎯→ ? g of O
+3 3
+Solution:
+k
+1 mole of O = 16 x 3
+3 o
+= 48 g
+o
+1 mole of O = 48 g
+3 B
+So, 9. 05 moles of O = 48 g x 9. 05
+3
+l
+a = 434. 4g of O
+3
+Example 1. 6: Whenn natural gas burns CO is formed. If 0.
+---CHUNK_SEPARATOR---
+25 moles of CO is formed,
+2 2
+what mass of CO is produced?
+o
+2
+P roblem sol
+i
+ving strategy:
+t
+Carbon dioxide is a molecular substance. Determine its molar mass and use it to convert
+a
+moles to mass in grams
+N
+0. 25 moles of CO ⎯⎯→ ? g of CO
+2 2
+Solution:
+Molar mass of CO = 12 + 16 x 2
+2
+= 44g
+1 mole of CO = 44g of CO
+2 2
+So, 0. 25 moles of CO = 44 x 0. 25
+2
+= 11g of CO
+2
+23
+1 Fundamentals of Chemistry
+Example 1.
+---CHUNK_SEPARATOR---
+7: Converting grams to moles
+How many moles of each of the following substance are present?
+(a) A balloon filled with 5g of hydrogen. (b) A block of ice that weighs 100g. Problem solving strategy:
+n
+Hydrogen and ice both are molecular substances. Determine their molar masses. Use
+o
+the molar mass of each to convert masses in grams to moles. mass ⎯⎯→ ? moles i
+t
+Solution:
+a
+a) Molar mass of H = 1. 008 x 2
+2 d
+= 2. 016g
+1 mole of H = 2. 016g n
+2
+So, 2.
+---CHUNK_SEPARATOR---
+016g of H = 1 mole of H u
+2
+2
+1 o
+1g of H = moles of H
+2 2. 016 2
+F
+1
+5g of H = x5moles of H
+2 2. 016 2
+k
+= 2. 48 moles of H O
+2
+o
+b) 1 mole of H O = 2 x 1. 008 + 16
+2
+= 2. 016 + 16
+o
+= 18. 016g
+B
+1 mole of H O = 18. 016g
+2
+So, 18. 016g of H O = 1 mole
+2
+l
+1
+1g of HaO = moles
+2 18. 016
+n
+1
+100g of H O = x100moles
+o2 18. 016
+= 5. 55 moles of H O
+i 2
+t
+Self-Assessment Exercise 1. 9
+a
+1. The molecular formula of a compound used for bleaching hair is H O.
+---CHUNK_SEPARATOR---
+Calculate (a) Mass
+N 2 2
+of this compound that would contain 2. 5 moles. (b) No. of moles of this compound that
+would exactly weigh 30g. 2. A spoon of table salt, NaCl contains 12. 5grams of this salt. Calculate the number of moles
+it contains. 3. Before the digestive systems X-rayed, people are required to swallow suspensions of
+barium sulphate BaSO Calculate mass of one mole of BaSO. 4 4
+Teacher’s Point
+A teacher may in courage students solve self- assessment exercise themselves.
+---CHUNK_SEPARATOR---
+24
+1 Fundamentals of Chemistry
+Reading
+1. 5. 2 Mole-Particles Calculations
+Example 1. 8: Calculating the number of atoms in given moles
+n
+1. Zn is a silvery metal that is used to galvanize steel to prevent corrosion. How many atoms
+are there in 1. 25 moles of Zn. o
+2. A thin foil of aluminium (Al) is used as wrapper in food industries. Howi many atoms are
+t
+present in a foil that contains 0.
+---CHUNK_SEPARATOR---
+2 moles of aluminium?
+a
+Problem solving strategy:
+d
+Remember that symbols Zn and Al stand for one mole of Zn and Al atoms respectively. n
+Solution:
+u
+1. 1 mole of Zn contains = 6. 022 x 1023atoms
+o
+1. 25 moles of Zn contain = 6. 022 x 1023 x 1. 25
+= 7. F53 x 1023Zn atoms
+2. 1 mole of Al contains =6. 022 x 1023atoms
+k
+So 0. 2 moles of Al will contain = 6. 022 x 1023 x 0. 2
+o
+= 1. 2044 x 1023atoms
+o
+Example 1. 9: Calculating the number of molecules in given moles of a substance
+B
+1.
+---CHUNK_SEPARATOR---
+Methane (CH ) is the major component of natural gas. How many molecules are present
+4
+in 0. 5 moles of a purel sample of methane?
+2. At high temperatu a re hydrogen sulphide (HS) gas given off by a volcano is oxidized by
+2
+air to sulphur ndioxide (SO ). Sulphur dioxide reacts with water to form acid rain. How
+2
+many moloecules are there in 0. 25 moles of SO. 2
+Problem solving strategy:
+i
+Reme t mber that CH is a molecular compound, thus 1 mole of methane will have
+4
+a
+6. 022 x 1023 molecules.
+---CHUNK_SEPARATOR---
+Similarly, SO is a molecular compound, its one mole will also have
+2
+6. 0N22x1023 molecules. Solution:
+1. 1 mole of CH contains = 6. 022 x 1023 molecules
+4
+So, 0. 5 moles of CH will contain = 6. 022 x 1023x 0. 5
+4
+= 3. 011 x 1023 molecules
+2. 1 mole of SO contains = 6. 022 x 1023 molecules
+2
+So, 0. 25 moles of SO will contain = 6. 022 x 1023x0. 25
+2
+= 1. 5055 x 1023 molecules
+25
+1 Fundamentals of Chemistry
+Example 1.
+---CHUNK_SEPARATOR---
+10: Calculating the number of moles in the given number of atoms
+Titanium is corrosion resistant metal that is used in rockets, aircrafts and jet engines. Calculate the number of moles of this metal in a sample containing 3. 011 x 1023 Ti-atoms. Problem solving strategy:
+n
+Remember that 1 mole of an element contains 6. 022 x 1023 atoms. o
+Thus,
+i
+6. 022 x 1023 atoms = 1 mole t
+a
+3. 011 x 1023 atoms ? moles
+d
+Solution:
+n
+6. 022 x 1023 Ti atoms = 1 mole of Ti
+u
+1
+o
+1 Ti atom = moles of Ti
+6.
+---CHUNK_SEPARATOR---
+022 x 1023
+F
+1
+3. 011 x 1023 Ti atoms = x 3. 011 x 1023 moles of Ti
+6. 0k22 x 1023
+=o 0. 5 moles of Ti
+o
+Example 1. 11: Calculating number of moles in the given number of molecules
+B
+Formaldehyde is used to preserve dead animals. Its molecular formula is CH O. 2
+Calculate the number of moles that would contain 3. 011 x 1022 molecules of this compound. l
+Problem Solving Straategy:
+Remember thant 1 mole of any compound contains 6. 022 x 1023 molecules. Thus, o
+6i.
+---CHUNK_SEPARATOR---
+022 x 1023 molecules = 1 mole of compound
+t
+a3. 011 x 1022 molecules ⎯⎯→ ?moles
+N
+Solution:
+6. 022 x 1023 molecules = 1 mole of formaldehyde
+1
+1 molecule = moles of formaldehyde
+6. 022 x 1023
+1
+3. 011 x 1022 molecules = x 3. 011 x 1022 moles of formaldehyde
+6. 022 x 1023
+= 0. 05 moles of formaldehyde
+26
+1 Fundamentals of Chemistry
+Self-Assessment Exercise 1. 10
+1. Aspirin is a compound that contains carbon, hydrogen and oxygen. It is used as a
+painkiller. An aspirin tablet contains 1.
+---CHUNK_SEPARATOR---
+25 x 1030 molecules. How many moles of this
+compound are present in the tablet? n
+2. A method used to prevent rusting in ships and underground pipelines involves connecting
+o
+the iron to a block of a more active metal such as magnesium. This method is called
+i
+cathodic protection. How many moles of magnesium are present in 1 billion (1 x 109)
+t
+atoms of magnesium. a
+d
+Key Points n
+• Chemistry is the science of materials of the universe.
+---CHUNK_SEPARATOR---
+u
+• The branch of Chemistry that deals with laws and theories to understand the structure
+o
+and changes of matter is called Physical Chemistry. F
+Organic chemistry deals with carbon compounds (except bicarbonates carbonates oxides
+and carbides. k
+• The branch of Chemistry that deals with elements and their compounds except organic
+compounds is called Inorganic Cheomistry. • Physical and chemical changes that occur in living organisms are studied in biochemistry.
+---CHUNK_SEPARATOR---
+o
+• Industrial chemistry is concerned with the large scale production of chemical substances. B
+• An element is a substance all the atoms of which have the same atomic number. • A compound consists o f two or more elements held together in fixed proportions by
+l
+chemical bonds. a
+• An impure substance that contains two or more pure substances that retain their
+n
+individual chemical characteristics is called a mixture.
+---CHUNK_SEPARATOR---
+• The numboer of protons in the nucleus of an atom is known as its atomic number. • The total number of protons and neutrons in an atom is called its mass number. i
+• Atomts of an element that have different number of neutrons are called isotopes. a
+• The mass of an atom of an element relative to the mass of an atom of C-12 is called
+Nrelative atomic mass. • One atomic mass unit is defined as the mass exactly equal to one-twelfth the mass of
+one C-12 atom.
+---CHUNK_SEPARATOR---
+• Chemical formula of a compound that gives the simplest whole-number ratio between
+atoms is called empirical formula. • Molecular formula of a compound gives the exact number of atoms present in a molecule. • Molecular mass is the sum of atomic masses of all the atoms present in the molecule. • Positively charged ions are called cations and negatively charged ions are called anions. • When a molecule loses or gains electrons, the resulting species is called molecular ion.
+---CHUNK_SEPARATOR---
+27
+1 Fundamentals of Chemistry
+• Free radical is an atom or group of atoms that contains an unpaired electron. • The number of representative particles in one mole of the substance is known as
+Avogadro’s number. • The amount of matter that contains as many atoms, ions or molecules as the number of
+atoms in exactly 12g of C-12 is called mole. Mole can also be defined as atomic mass,
+molecular mass or formula mass expressed in grams.
+---CHUNK_SEPARATOR---
+n
+• Atomic mass of an element expressed in grams is called gram atomic mass. o
+• Molecular mass of an element or a compound expressed in grams is its gram molecular
+i
+mass. t
+• Gram formula mass is the formula mass of a substance in grams. a
+REFERENCES FOR ADDITIONAL INFORMATION
+d
+• Zumdahl, Introductory Chemistry. • Raymond Chang, Essential Chemistry. n
+u
+Activity
+o
+Take two balloons. Fill one balloon full of air and other half. Then weigh both and compare the masses
+F
+of both.
+---CHUNK_SEPARATOR---
+It confirms that masses of gases increase with increase in number of molecules in it. Reviekw Questions
+o
+1. Encircle the correct answer:
+(i) Which of the following lisots contains only elements?
+(a) Air, water, oxygen (b) Hydrogen, oxygen, brass
+B
+(c) Air, water, fire, earth (d) Calcium, sulphur, carbon
+(ii) The diagrams bel ow represent particles in four substances, which box
+l
+represent the particles in nitrogen. a
+n
+o
+i
+t a. b. c. d. (iaii) What is the formula mass of CuSO. 5H O.
+---CHUNK_SEPARATOR---
+(Atomic masses: Cu=63. 5, S=32,
+4 2
+NO=16, H=1)
+(a) 159. 5 (b) 185. 5 (c) 249. 5 (d) 149. 5
+(iv) A compound with chemical formula Na CX has formula mass 106amu. Atomic
+2 3
+mass of the element X is
+(a) 106 (b) 23 (c) 12 (d) 16
+(v) How many moles of molecules are there in 16g oxygen. (a) 1 (b) 0. 5 (c) 0. 1 (d) 0. 05
+(vi) What is the mass of 4 moles of hydrogen gas. (a) 8. 064g (b) 4. 032g (c) 1g (d) 1.
+---CHUNK_SEPARATOR---
+008g
+28
+1 Fundamentals of Chemistry
+(vii) What is the mass of carbon present in 44g of carbon dioxide. (a) 12g (b) 6g (c) 24g (d) 44g
+(viii) The electron configuration of an element is 1s22s2. An atom of this element will
+form an ion that will have charge.
+---CHUNK_SEPARATOR---
+(a) +1 (b) +2 (c) +3 (d) -1
+(ix) Which term is the same for one mole of oxygen and one mole of water?
+n
+(a) volume (b) (c) mass (d) atoms (e) molecules
+o
+(x) If one mole of carbon contains x atoms, what is the number of atoms contained in
+12g of Mg. i
+t
+(a) x (b) 0. 5x (c) 2x (d) 1. 5x
+a
+2. Give short answers.
+---CHUNK_SEPARATOR---
+(i) Differentiate between an ion and a free radical d
+(ii) What do you know about corpuscular nature of matter?
+n
+(iii) Differentiate between analytical chemistry and environmental chemistry. u
+(iv) What is mole?
+(v) Differentiate between empirical formula anod molecular formula. (vi) What is the number of molecules in 9.
+---CHUNK_SEPARATOR---
+0 g of steam?
+F
+(vii) What are the molar masses of uranium -238 and uranium -235?
+(viii) Why one mole of hydrogen molecules and one mole of H-atoms have different
+k
+masses?
+o
+3. Define ion, molecular ion, formula unit, free radical, atomic number, mass number,
+atomic mass unit. o
+4. Differentiate between (a) atom and ion (b) molecular ion and free radical. B
+5. Describe how Avogadro’s number is related to a mole of any substance. 6.
+---CHUNK_SEPARATOR---
+Calculate the number of moles of each substance in samples with the following
+l
+masses:
+a
+(a) 2. 4 g of He (b) 250mg of carbon (c) 15g of sodium chloride
+n
+(d) 40g of sulphur (e) 1. 5kg of MgO
+7. Calculateo the mass in grams of each of the following samples:
+(a) 1. 2 moles of K (b) 75moles of H (c) 0. 25 moles of steam
+i 2
+(d) 1. t 05 moles of CuSO. 5H O (e) 0. 15moles of H SO
+4 2 2 4
+8. Caalculate the number of molecules present in each of the following samples:
+(a) 2.
+---CHUNK_SEPARATOR---
+5 moles of carbon dioxide (b) 3. 4 moles of ammonia, NH
+N 3
+(c) 1. 09 moles of benzene, C H (d)0. 01 moles of acetic acid, CH COOH
+6 6 3
+9. Decide whether or not each of the following is an example of empirical formula:
+(a) Al Cl (b) Hg Cl (c)NaCl (d) C H O
+2 6 2 2 2 6
+10. TNT or trinitrotoluene is an explosive compound used in bombs. It contains 7 C-
+atoms, 5 H-atoms, 3 -N atoms and 6 O-atoms. Write its empirical formula. 11. A molecule contains four phosphorus atoms and ten oxygen atoms.
+---CHUNK_SEPARATOR---
+Write the
+empirical formula of this compound. Also determine the molar mass of this
+molecule. 29
+1 Fundamentals of Chemistry
+12. Indigo (C H NO ), the dye used to colour blue jeans is derived from a compound
+16 10 2 2
+known as indoxyl (CHON). Calculate the molar masses of these compounds. 8 7
+Also write their empirical formulas. 13. Identify the substance that has formula mass of 133. 5amu. (a) MgCl (b) S Cl (c) BCl (d) AlCl
+2 2 2 3 3
+n
+14.
+---CHUNK_SEPARATOR---
+Calculate the number of atoms in each of the following samples:
+(a) 3. 4 moles of nitrogen atoms (b) 23g of Na (d) 5g of H aotoms
+15. Calculate the mass of the following:
+i
+(a) 3. 24 x 1018 atoms of iron (b) 2 x 1010 molecules of nitrtogen gas
+(c) 1 x 1025 molecules of water (d) 3 x 106 atoms of Al a
+16. Identify the branch of chemistry that deals with the followding examples:
+1. A cornstalk grows from a seed. n
+2. Dynamite (CHNO ) explodes to form a mixture of gases. 3 5 3 9
+u
+3.
+---CHUNK_SEPARATOR---
+Purple iodine vapour appears when solid iodine is warmed. o
+4. Gasoline ( a mixture of hydrocarbons) fumes are ignited in an auto mobile engine. 5. A silver article tarnishes in air. F
+6. Ice floats on water. 7. Sulphur dioxide is the major sourcek of acid rain. 8. Many other light chlorinated hydrocarbons in drinking water are carcinogens. o
+9. In Pakistan most of the factories use wet process for the production of cement. 10.
+---CHUNK_SEPARATOR---
+Carbon-14 is continuously poroduced in the atmosphere when high energy
+neutrons from space cBollide with nitrogen-14. Think-Tank l
+a
+1. What nmass of sodium metal contains the same number of atoms as 12. 00g of
+carbon. o
+2. What mass of oxygen contains the same number of molecules as 42g of
+i
+nitrogen. t
+3a. Calculate the mass of one hydrogen atom in grams. 4. Observe the given figure. It shows particles in a
+N
+sample of air.
+---CHUNK_SEPARATOR---
+a) Count the substances shown in the sample
+b) Is air a mixture or pure substance? Explain?
+c) Identify the formula of each substance in air. d) Argue whether each substance in air is an element or a compound. e) What is the most common substance in air?
+5. Calculate the number of H-atoms present in 18g H O. 2
+6. Calculate the total number of atoms present in18g H O.
+---CHUNK_SEPARATOR---
+2
+2
+STRUCTURE OF ATOMS
+n
+o
+i
+This is a 14 days lesson
+Pre-t Reading
+a
+After completing this lesson, you will
+be able to: The st d ructure of atom tells how the
+• Describe the contribution the Rutherford Atomic sub-atomic particles are arranged. Theory in the structure of the atoms. n
+Atoms are so small that they can
+• Explain how Bohr’s Atomic Theory differed from
+Rutherford’s Atomic theory. uonly be visualized with a scanning
+• Compare isotopes of an element. tunneling microscope.
+---CHUNK_SEPARATOR---
+See figure
+o
+• Describe the structure of an atom including the
+2. 1 that shows an image of gold
+location of the proton, electron and neutron. F
+• Describe the contribution that Rutherford made to the atoms on the surface. In grade VII
+development of the atomic theory you have learned about the
+• Describe the presence of sub shells in a shkell. structure of atom and sub-atomic
+• Define isotopes. • Distinguish between shells and sub sh o ells.
+---CHUNK_SEPARATOR---
+particles, electrons, protons and
+• Discuss the properties of the isotopes of H, C, Cl, U. neutrons. In this chapter you will
+o
+• Draw the structures of different isotopes from mass
+learn about the arrangement of
+number and atomic number. B
+these particles in an atom. Atomic
+• State the importance and uses of isotopes in various
+fields of life. structure was formulated from a
+• Write the electronic colnfiguration of the first 18
+series of experiments during the
+elements in the Peraiodic Table.
+---CHUNK_SEPARATOR---
+later part of nineteenth century and
+n the beginning of the twentieth
+century. We will odiscuss contributions of British physicist Rutherford and Danish physicist Neil
+Bohr for determining the structure of an atom. Bohrs’s structure of an atom nicely explains the
+i
+arrangementt of elements in the periodic table and periodicity of properties. How? To understand
+this you ashould know the structure of atoms. N
+Reading
+2.
+---CHUNK_SEPARATOR---
+1 THEORIES AND EXPERIMENTS RELATED
+TO ATOMIC STRUCTURE
+In grade VII you have learned about the structure of atom and sub-atomic particles. You
+have also learned the distribution of electrons in shells (KLM only) using 2n2 formula. In this
+section you will learn about theories and experiments related to atomic structure. 31
+2 Structure of Atoms
+2. 1. 1 Rutherford’s Atomic Model
+In 1911 Rutherford performed an experiment in order to know the arrangement of
+electrons and protons in atoms. 2. 1. 1.
+---CHUNK_SEPARATOR---
+1 Rutherford’s Experiment
+Rutherford bombarded a very thin gold foil about
+n
+0. 00004cm thickness with α-particles. (figure 2. 1). He
+o
+used α-particles obtained from the disintegration of
+i
+polonium. α-particles are helium nuclei that are doubly
+t
+positively charged (He++). Most of these particles a
+passed straight through the foil. Only few particles were
+d
+slightly deflected. But one in 1 million was deflected
+n
+through an angle greater than 90o from their straight
+paths.
+---CHUNK_SEPARATOR---
+Rutherford performed a series of experiments u
+using thin foils of other elements. He observed similar
+o
+Figure 2. 1 Rutherford’s Experiment
+results from these experiments. F
+Rutherford drew the following conclusions:
+1. Since majority of the α-particles passed th rough the foil undeflected, most of the space
+k
+occupied by an atom must be empty. 2.
+---CHUNK_SEPARATOR---
+The deflection of a few α-particles o through angles greater than 90o shows that these
+particles are deflected by eleoctrostatic repulsion between the positively charged α-
+particles and the positively charged part of atom. B
+3. Massive α-particles are not deflected by electrons. On the basis of conclusions drawn from these experiments, Rutherford proposed a new
+l
+model for an atom. He praoposed a planetary model (similar to the solar system) for an atom. An
+atom is a neutral particle.
+---CHUNK_SEPARATOR---
+The mass of an atom is concentrated in a very small dense positively
+n
+charged region. He named this region as nucleus. The electrons are revolving around the
+o
+nucleus in circles. These circles are called orbits. The centripetal force due to the revolution of
+electrons balanices the electrostatic force of attraction between the nucleus and the electrons. t
+2. 1. 1. 2 Defects in Rutherford’s Atomic Model
+a
+Rutherford’s model of an atom resembles our solar system. It has following defects:
+N
+1.
+---CHUNK_SEPARATOR---
+Classical physics suggests that electron being charged particle will emit energy
+continuously while revolving around the nucleus. Thus the orbit of the revolving electron
+becomes smaller and smaller until it would fall into the nucleus. This would collapse the
+atomic structure. 2. If revolving electron emits energy continuously it should form a continuous spectrum for
+an atom but a line spectrum is obtained.
+---CHUNK_SEPARATOR---
+Teacher’s Point
+Tube light is a discharge tube
+32
+2 Structure of Atoms
+Bohr formulated new explanation and a new theory to remove defects from the
+Rutherford’s atomic model. 2. 1. 2 Bohr’s Atomic Theory
+In1913 Neil Bohr, proposed a model for an atom that was consistent with Rutherford’s
+model. But it also explains the observed line spectrum of the hydrogen atom. Main postulates of
+Bohr’s atomic theory are as follows: n
+1.
+---CHUNK_SEPARATOR---
+The electron in an atom revolves around Society, Technology aond Science
+the nucleus in one of the circular orbits. Rutherford was the first scientist
+i
+who proposed first atomic model of an atom. Each orbit has a fixed energy. So each t
+He suggested that all of the positive charge
+orbit is also called energy level. and most of thea mass of the atom is
+concentrated in the nucleus. The remaining
+2.
+---CHUNK_SEPARATOR---
+The energy of the electron in an orbit is d
+volume of the atom is occupied by electrons
+proportional to its distance from the that revolve around the nucleus in circles
+n
+called orbits. These suggestions remained
+nucleus. The farther the electron is from
+unchallenged. But his model could not
+u
+the nucleus, the more energy it has. explain the stability of an atom and line
+3. The electron revolves only in those orbits
+ospectrum for an atom.
+---CHUNK_SEPARATOR---
+Bohr leaped over
+difficulty by using Quantum Theory of
+for which the angular momentum of th F e Radiation that was proposed by Max Plank. h Bohr proposed that an electron moves
+electron is an integral multiple of
+around the nucleus in well defined circular
+2
+k paths called orbits. An orbit has fixed
+where h is Plank’s constant (its value is energy. Electron present in an orbit does not
+o
+6. 626x10-34 J. s). emit energy. Bohr atomic theory explains
+nicely the stability of an atom and also
+o
+4.
+---CHUNK_SEPARATOR---
+Light is absorbed when an electron jumps explains why an atom gives line spectrum. Development of Bohr’s atomic model
+to a higher energy orbBit and emitted when
+explains how interpretations of experimental
+an electron falls into a lower energy orbit. results of other scientists help chemists to
+Electron present in a particular orbit does formulate new explanations and new
+l
+theories. not radiate enaergy. 5.
+---CHUNK_SEPARATOR---
+The energny of the light emitted is exactly equal to the difference between the energies
+of the orbits. o
+ΔE=E -E
+i 2 1
+t
+Where ΔE is the energy difference between any two orbits with energies E and E
+a 1 2
+N
+Figure 2. 2 Bohr’s model of the atom
+33
+2 Structure of Atoms
+Self-Assessment Exercise 2. 1
+Draw Bohr’s Model for the following atoms
+indicating the location for electrons, protons and
+neutrons, n
+(a) Carbon (Atomic No. 6, Mass No. 12) o
+(b) Chlorine(Atomic No. 17, Mass No.
+---CHUNK_SEPARATOR---
+35) i
+t
+Figure 2. 3 Bohar’s model for atom A and
+atom B
+Reading
+d
+n
+2. 2 ISOTOPES
+u
+Figure 2. 3 shows Bohr’s Model for two atoms A
+Society, Technology and Science
+and B o
+Dalton’s atomic theory
+Can you identify three similarities and two differencFes in explained data from many experiments. these atoms? So it was widely accepted. Discovery of
+sub-atomic particles and isotopes
+k
+You will find, proved that some of the Dalton’s ideas
+o about atoms were not correct.
+---CHUNK_SEPARATOR---
+Scientists
+(a) Both the atoms have same number of protons. did not discard his theory. Instead, they
+o
+(b) Both the atoms have same number of electrons. revised the theory to take into account
+(c) Both have same atomiBc number. new discoveries. This shows how
+prevailing theories bring about changes
+(d) Both have different number of neutrons. in them. l
+(e) Both differ in total number of protons and
+a
+neutron. This means they have different mass
+n
+numbers.
+---CHUNK_SEPARATOR---
+Since botho the atoms have the same atomic number, they must be the atoms of same
+element and are called isotopes. The word isotope was first used by Soddy. It is a Greek word
+i
+“isos” meanst same and “tope” means place. a
+Isotopes are atoms of an element whose nuclei have the same atomic number but
+diffNerent mass number. This is because atoms of an element can differ in the number of
+neutrons. Isotopes are chemically alike and differ in their physical properties.
+---CHUNK_SEPARATOR---
+How does the discovery of isotopes contradicted Dalton’s atomic theory?
+Isotopes of Hydrogen
+Hydrogen has three isotopes. Hydrogen –1 (Protium) has no neutron. Almost all the hydrogen
+1H
+is Hydrogen –1. Its symbol is. Hydrogen – 2 (deuterium) has one neutron and hydrogen –3
+1
+2H 3H
+(Tritium) has two neutrons. Their symbols are and respectively Because hydrogen –1
+1 1
+also known as protium has only one proton, adding a neutron doubles it mass.
+---CHUNK_SEPARATOR---
+34
+2 Structure of Atoms
+Protium / Hydrogen is a colourless, odourless, and tasteless gas. It is insoluble in water and is
+highly inflammable gas. Water that contain hydrogen–2 atoms in place of hydrogen–1 is called
+heavy water. Table2. 1 Shows some physical properties of ordinary water and heavy water. Table 2. 1 - Comparision of ordinary water and heavy water. Property Ordinary water Heavy water
+Melting Point 0. 000C 3. 810C n
+Bioling point 1000C 101. 20C o
+Density at 250C 0. 99701 g/cm3 1.
+---CHUNK_SEPARATOR---
+1044 g/cm3
+i
+t
+a
+At what temperature would a sample of heavy
+water freeze? d
+Naturally occurring hydrogen contains 99. 99%
+n
+protium, 0. 0015% Deuterium. Tritium is
+u
+radioactive and is rare. Tritium is not found in
+naturally ooccurring hydrogen because its nucleus
+Figure 2. 5 Isotopes of hydrogen
+is unstable. F
+Isotopes of Carbon
+Carbon has three isotopes. Carbon–12, kcarbon–13 and carbon –14. Almost all the carbon is
+carbon–12. Its symbol is
+1
+6
+2C. It has six neutorons and six protons.
+---CHUNK_SEPARATOR---
+Carbon–13 has symbol
+1
+6
+3C. It
+has
+seven neutrons and six protons. Carbon–14 has eight neutrons and six protons. Its symbol is
+o
+14C. Different forms of carbon are black or greyish black solids except diamond. They are
+6 B
+odourless and tasteless. They have high melting and boiling points and are insoluble in water. l
+a
+Activity 2. 1
+n
+Carbon has threoe isotopes 12C, 13C, 14CFigure
+6 6 6
+2. 6 shows inciomplete structure of isotopes of
+carbon.
+---CHUNK_SEPARATOR---
+Catn you complete it?
+a
+Natural abundance of isotopes of carbon is as
+foNllows
+12C = 98. 8%, 13C = 1. 1%, 14C = 0. 009%
+Figure 2. 6 Isotopes of Carbon
+6 6 6
+Isotopes of Chlorine
+There are two natural isotopes of chlorine, chlorine–35 and chlorine–37. An atom of
+chlorine–35 has 17 protons and 18 neutrons. An atom of chlorine–37 has 17 protons and 20
+neutrons. Chlorine–35 occurs in nature about 75% and chlorine–37 about 25%. Chlorine is a
+greyish yellow gas with sharp pungent irritating smell.
+---CHUNK_SEPARATOR---
+It is fairly soluble in water. 35
+2 Structure of Atoms
+Activity 2. 2
+Chlorine has two isotopes. Figure 2. 7 shows the
+structure of isotopes of chlorine. Can you write isotope
+symbol for each?
+n
+Isotope symbols: _______ _______
+o
+Natural abundance 75. 77% 24. 23%
+i
+Figure 2. 7 Isotopes of chlorine
+t
+a
+Isotopes of Uranium
+d
+n
+Activity 2. 3
+u
+Uranium has three isotopes with mass number 234, 235 and 238 respectively.
+---CHUNK_SEPARATOR---
+o
+234U, 235U , 238U
+92 92 F92
+The
+235U
+isotope is used in nuclear reactors and atomic bombs, whereas the
+238U
+92 92
+isotope lacks the properties necessary for th
+k
+ese applications. 234Uis
+rare. Natural abundance
+92
+of Uranium isotopes is as follows: o
+234U = 0. 006%, 235U = 0. 72%, 238U = 99.
+---CHUNK_SEPARATOR---
+27%
+o
+92 92 92
+Fill in the blanks?
+B
+234Uhas
+___ protons, ___ electrons and ___ neutrons
+92
+235Uhlas
+___ protons, ___ electrons and ___ neutrons
+92
+a
+238U
+has ___ protons, ___ electrons and ___ neutrons
+92
+n
+When uranium–238 decays into thorium–234, it emits alpha particle. An alpha particle is
+doubly positiveloy charged helium nucleus. i 238U → 234Th + 4He
+t 92 90 2
+The fisasion of uranium–235 yields smaller nuclei, neutron and energy.
+---CHUNK_SEPARATOR---
+The nuclear energy
+released by the fission of one kilogram of uranium–235 is equivalent to chemical energy
+N
+produced by burning more than 17000 kg of coal. Chemical properties of an element depend upon the number of protons and electrons. Neutrons do not take part in ordinary chemical reactions. Therefore, isotopes of an element
+have similar chemical properties. 2. 2. 2 Uses of Isotopes
+Stable and radioactive isotopes have many applications in science and medicines.
+---CHUNK_SEPARATOR---
+Some
+of these are as follows:
+(i) Radioactive iodine -131 is used as a tracer in diagnosing thyroid problem. 36
+2 Structure of Atoms
+(ii) Na-24 is used to trace the flow of blood and detect possible constrictions or
+obstructions in the circulatory system. (iii) Iodine-123 is used to image the brain. (iv) Cobalt-60 is commonly used to irradiate cancer
+Important information
+cells in the hope of killing or shrinking the tumors.
+---CHUNK_SEPARATOR---
+Carbon-14 is used to estimate (v) Carbon-14 is used to trace the path onf carbon in
+the age of carbon-containing
+substances. Carbon atoms circulate photosynthesis. o
+between the oceans, and living
+(vi) Radioactive isotopes are used to determine the
+organism at a rate very much faster i
+than they decay. As a result the molecular structure e. g. sulphutr-35 has been used
+concentration of C-14 in all living things in the structure determinaation of thiosulphate,
+keep on increasing.
+---CHUNK_SEPARATOR---
+After death
+organisms no longer pick up C-14. By S O −2 ion. d
+2 3
+comparing the activity of a sample of
+skull or jaw bones, with the activity of
+(vii) Radioactive isotopnes are also used to study the
+living tissues, we can estimate how mechanism of chemical reactions. u
+long it has been since the organism
+(viii) Radioactive isotopes are used to date rocks, soils,
+died. This process is called dating. o
+archaeological objects, and mummies. F
+2.
+---CHUNK_SEPARATOR---
+3 ELECTRONIC CONFIGURATION
+k
+To understand electronic configuration, you should know about shells and sub-shells. o
+2. 3. 1 Shells
+o
+According to Bohr’s atomic theory, the electron in an atom revolves around the nucleus in one of
+the circular paths called shells or orbits. Each shell has a fixed energy. So each shell is also called energy
+B
+level. Each shell is described by an n value. n can have values 1,2,3…. When,
+l
+n = 1, it is Ka shell
+n = 2, it is L shell
+n
+n = 3, it is M shell etc.
+---CHUNK_SEPARATOR---
+o
+As the value of n increases the distance of electron from the nucleus and energy of the
+i
+shell increastes. a
+2. 3. 2 Sub-Shells
+N
+A shell or energy level is sub divided into sub-shells or sub-energy levels. n value of a
+shell is placed before the symbol for a sub-shell. For instance
+n = 1, for K shell. It has only one sub-shell which as represented by 1s. For L shell n =2, L shell has two sub-shells, these are designated as 2s and 2p.
+---CHUNK_SEPARATOR---
+For M shell n =3 So M shell has 3 sub-shells called 3s , 3p and 3d. While N shell has 4s, 4p, 4d
+and 4f sub-shells. s sub-shell can accommodate maximum 2 electrons. p sub-shell can accommodate maximum 6 electrons. 37
+2 Structure of Atoms
+d sub-shell can accommodate maximum 10 electrons. f sub-shell can accommodate maximum 14 electrons. The increasing order of energy of the sub-shells belonging to different shells is given below. 1s < 2s < 2p < 3s < 3p< 4s< 3d ….
+---CHUNK_SEPARATOR---
+The arrangement of electrons in sub-shells is called as the electronic connfiguration. We can fill the electrons present in various elements by using Auf Bau Principle. According to
+o
+this principle, electrons fill the lowest energy sub-shell that is available first. This means
+i
+electron will fill first 1s, then 2s, then 2p and so on. t
+2. 3. 3 Electronic Configuration of First 18 Elementsa. Electronic configuration is the distribution of electrons damong the different sub-
+shells of an atom.
+---CHUNK_SEPARATOR---
+We can do this by listing the symbol for the occupied subs-shells one after
+n
+another. Show the number of electrons in the sub-shell as a superscript to each symbol. Because
+u
+the energies of sub-shells increase in the order, 1s, 2s, 2p, 3s, 3p (as indicated in section 2. 2. 1),
+the first five sub-shells fill in that order. Hydrogen haso atomic number 1. So it has only one
+electron that will occupy lowest energy sub-shell 1s. The electronic configuration of H is 1s1.
+---CHUNK_SEPARATOR---
+F
+Helium has atomic number 2, so it has two electrons. Since s sub-shell can accommodate
+two electrons, so electronic configuration of Hke is 1s2. Lithium has atomic number 3, so it has three electrons, two will fill 1s sub-shell and one
+o
+2s sub-shell. So electronic configuration of Li is 1s22s1. o
+Beryllium has atomic number 4, so it has four electrons. Two of these electrons go into1s
+B
+sub-shell and two will go to 2s sub-shell. Thus electronic configuration of Be is 1s22s2.
+---CHUNK_SEPARATOR---
+Once 2s sub-shell is fille d, the 2p sub-shell begins to fill. 2p sub-shell can hold maximum
+l
+6 electrons. So next six elements will have configuration in which 2p sub-shell will be
+a
+progressively filled. Therefore, these elements will have following electronic configuration.
+---CHUNK_SEPARATOR---
+n
+B = 1s22s2sp1
+5
+o
+C = 1s22s22p2
+6
+i
+N = 1s22s22p3
+t 7
+a O = 1s22s22p4
+8
+N F = 1s22s22p5
+9
+Ne = 1s22s22p6
+10
+After 2p has completely filled, the additional electrons will fill 3s sub-shell, so electronic
+configuration of Na & Mg would be
+Na = 1s22s22p63s1
+11
+Mg = 1s22s22p63s2
+12
+38
+2 Structure of Atoms
+After 3s has completely filled 3p sub-shell begins to fill. So next six elements have
+electronic configuration by filling 3p sub-shell. Self-Assessment Exercise 2.
+---CHUNK_SEPARATOR---
+3
+n
+Write the complete electronic configuration for the following elements;
+Al (atomic number 13) o
+Si (atomic number 14) i
+t
+P (atomic number 15)
+a
+S (atomic number 16)
+d
+Cl (atomic number 17)
+n
+Ar (atomic number 18)
+u
+Figure 2. 10 shows the electronic configuration in the sub-shell last occupied for the first
+o
+eighteen elements.
+---CHUNK_SEPARATOR---
+F
+H He
+1s1 1s2
+k
+Li Be B C N O F Ne
+o
+2s1 2s2 2s22p1 2s22p2 2s22p3 2s22p4 2s22p5 2s22p6
+o1 1 1 1
+Na Mg Al Si P S Cl Ar
+3s1 3s2 B3s23p1 3s23p2 3s23p3 3s23p4 3s23p5 3s23p6
+1 1 1
+Figure 2. 10 Valence shell configuration of first 18 elements
+l
+a
+n
+Self-Assessment Exercise 2. 4
+o
+Write the electronic configuration for the following isotopes
+i
+(a)
+t14C,
+(b)
+35Cl,
+(c)
+37Cl
+a6 17 17
+N
+Key Points
+• Rutherford proposed a planetary model for an atom. The nucleus of an atom is composed
+of protons.
+---CHUNK_SEPARATOR---
+The electrons surround the nucleus and occupy most of the volume of the
+atom. • According to Bohr’s atomic model, the electron in an atom revolves around the nucleus
+in fixed circular orbits called shells. Energy is absorbed when an electron jumps to a
+higher energy orbit and emitted when an electron falls into a lower energy orbit. 39
+2 Structure of Atoms
+• Isotopes are atoms of an element that differ in the number of neutrons. •
+235Uisotope
+is used in nuclear reactors and atomic bombs.
+---CHUNK_SEPARATOR---
+92
+• Radioactive isotopes have many applications in science and medicines such as killing
+cancer cells, diagnosing thyroid problem, to image the brain, to detect obstruction in the
+circulatory system, to date rocks, soils, mummies etc. n
+• A shell or energy level is divided into sub-shells. o
+• The arrangement of electrons in sub-shells is called as the electronic configuration. i
+• According to the Auf Bau Principle, electrons fill the lowest energy levtels first.
+---CHUNK_SEPARATOR---
+a
+REFERENCES FOR ADDITIONAL INFORMATION
+d
+• B. Earl and LDR Wilford, Introducion to Advanced Chemistry. n
+• Iain Brand and Richard Grime, Chemistry (11-14). u
+o
+Review Questions
+F
+1. Encircle the correct answer:
+k
+(i) According to Bohr atomic model:
+(a) Each orbit has fixed eneorgy, so each orbit is called sub-energy level. (b) The energy of the electron is inversely proportional to its distance from the
+o
+nucleus. B
+(c) Light is absorbed when an electron jumps a lower energy orbit.
+---CHUNK_SEPARATOR---
+(d) The further the electron is from the nucleus, the more energy it has. (ii) Chlorine has twlo isotopes, both of which have
+a
+(a) same mass number. (b) same number of neutrons. (c) diffenrent number of protons. (d) same number of electrons.
+---CHUNK_SEPARATOR---
+(iii) Numober of neutrons in 27M are
+13
+(ai) 13 (b) 14 (c) 27 (d) 15
+t
+(iv) Which isotope is commonly used to irradiate cancer cells?
+a
+(a) Iodine-123 (b) Carbon-14 (c) Cobalt-60 (d) Iodine-131
+N(v) M shell has sub-shells:
+(a) 1s, 2s (b) 2s, 2p (c) 3s, 3p, 3d (d) 1s, 2s, 3s
+(vi) A sub-shell that can accommodate 6 electrons is
+(a) s (b) d (c) p (d) f
+(vii) Na has electronic configuration:
+11
+(a) 1s22s23s1 (b) 1s22s22p7 (c) 1s22s22p53s2 (d) 1s22s22p63s1
+(viii) Rutherford used _____ particles in his experiments.
+---CHUNK_SEPARATOR---
+(a) He atoms (b) He+ (c) He+2 (d) He-2
+40
+2 Structure of Atoms
+(ix) Which of the following statement is not correct about isotopes?
+(a) they have same atomic number (b) they have same number of protons
+(c) they have same chemical properties (d) they have same physical properties
+(x) Which isotope is used in nuclear reactors?
+(a) U-234 (b) U-238 (c) U-235 (d) All of these
+2.
+---CHUNK_SEPARATOR---
+Give short answers n
+i) Distinguish between shell and sub-shell
+o
+ii) Why an atom is electrically neutral?
+i
+iii) How many sub-shells are there in N shell. t
+iv) Give notation for sub-shells of M shell. a
+v) List the sub-shells of M Shell in order of increasing energy
+d
+vi) Can you identify an atom without knowing number of neutrons in it?
+n
+3. The electronic configurations listed are incorrect. Explain what mistake have been
+made in each and write correct electronic confuigurations.
+---CHUNK_SEPARATOR---
+x = 1s22s22p43p2 , y = 1s22s12p1 , z = 1s22s22p53s1
+o
+4. Which orbital in each of the following pairs is lower in energy?
+F
+(a) 2s, 2p (b) 3p, 2p (c) 3s, 4s
+5. Draw Bohr’s Model for the following a toms indicating the location for electron,
+protons and neutrons: k
+(a) Potassium (Atomic No 19, Masos No. 39) (b) Silicon (Atomic No. 14 Mass No. 28)
+(c) Argon (Atomic No. 18 Mass No. 39 )
+o
+6.
+---CHUNK_SEPARATOR---
+Write electronic configuration for the following elements:
+B
+28Si 24Mg 27Al 40Ar
+(a) 14 (b) 12 (c) 13 (d) 18
+7. Describe the contribution that Rutherford made to the development of the atomic
+l
+theory. a
+8. Explain how Bohr’s atomic theory differed from Rutherford’s atomic theory. n
+9. Describe the presence of sub shells in a shell. o
+10. State the importance and uses of isotopes in various fields of life. 11. The atoimic number of an element is 23 and its mass number is 56. t
+a.
+---CHUNK_SEPARATOR---
+How many protons and electrons does an atom of this element have?
+a
+b. How many neutrons does this atom have?
+12. N
+The atomic symbol of aluminum is written as
+27Al. What information do you get
+13
+from it?
+13. How the prevailing theories about testing bring changes in atomic theories?
+14. How experimental results of some scientists help chemist to formulate new
+theories and new explanation. 41
+2 Structure of Atoms
+Think-Tank
+15.
+---CHUNK_SEPARATOR---
+M-24 is a radioactive isotope used to diagnose restricted blood circulation, for
+example in legs. How many electrons, protons and neutrons are there in this isotope. n
+Valence shell electronic configuration of M is 3s1. o
+16: Two isotopes of chlorine are
+35Cland 37Cl.
+---CHUNK_SEPARATOR---
+How do these isotopes differ? How are
+17 17
+i
+they alike? t
+a
+17: How many electrons can be placed in all of the sub-Shells in the n=2 shell?
+18: Mass number of an atom indicates total number of protodns and neutrons in the
+nucleus. Can you identify an atom without any neutron?
+n
+19: The table shows the nuclei of five different atoms. u
+Name of Number of Number of
+o
+atom Protons neutrons
+F
+A 5 6
+B 6 6
+k
+C 6 7
+o
+D 7 7
+o
+E 8 8
+B
+a. Which atom has the highest mass number?
+b.
+---CHUNK_SEPARATOR---
+Which two latoms are isotopes?
+a
+c. Which atom has the least number of electrons?
+n
+d. Which atom will have electronic configuration 1s22s22p3. o
+e. Which of the atom contains the most number of electrons?
+i
+20: Naturally occurring nitrogen has two isotopes N-14 and N-15 select isotope that has
+t
+greater number of electrons.
+---CHUNK_SEPARATOR---
+a
+N
+42
+3 Periodic Table And Periodicity Of Properties
+3
+PERIODIC TABLE AND PERIODICITY
+n
+o
+OF PROPERTIES
+i
+t
+a
+This is a 20 days lesson d Pre- Reading
+After completing this lesson, you will be able to:
+n
+• Classify the element (into two categories: groups and By the end of 18th century,
+u
+periods) according to the configuration of their outer 23 elements were known, by 1870,
+most shell. o65, by 1925, 88, today there are
+• Distinguish between a period and a group in the
+109.
+---CHUNK_SEPARATOR---
+These elements combine to
+periodic table. (Understanding) F
+form millions of compounds. It is
+• State the periodic law. • Determine the demarcation of the periodic table into very difficult rather impossible to
+k
+an s block and p block. remember information concerning
+• Determine the location of families in thoe periodic table. reactions, properties and atomic
+Recognize the similarity in the chemical and physical
+o masses of elements.
+---CHUNK_SEPARATOR---
+So we clearly
+properties of elements in the same family of elements. • Describe how electronegaBtivites change within a need some way to organize our
+group and within a period in the periodic table. knowledge about them. • Explain the shape of the p eriodic table. The periodic table is one of
+• Explain how shieldingl effect influences periodic
+a the most important tools in
+trends. • Identify the relationship between electronic chemistry.
+---CHUNK_SEPARATOR---
+It is very useful for
+n
+configuration and the position of an element in the understanding and predicting the
+periodic taoble. properties of elements. For
+i instance if you know physical and
+t
+chemical properties of one element in a group, you can predict about the physical and chemical
+a
+properties of any other element present in the same group. You can use periodic table to relate
+trenNds in the reactivity of elements with their atomic structure.
+---CHUNK_SEPARATOR---
+You can also predict which
+elements can form ionic or covalent bonds. Reading
+3. 1 PERIODIC TABLE
+One of the most important activities is the search for order. A large number of
+observations or objects can be arranged into groups according to common features they share,
+43
+3 Periodic Table And Periodicity Of Properties
+it becomes easier to describe them.
+---CHUNK_SEPARATOR---
+After the discovery of atomic number by Moseley in 1913,
+it was noticed that atomic number could serve as a base for systematic arrangement of elements. Thus elements are arranged in the order of increasing atomic number. A table showing
+systematic arrangement of elements is called periodic table. It is based on the Periodic law that
+states if the elements are arranged in the order of their increasing atomic numbers, their
+properties are repeated in a periodic manner. n
+3. 1.
+---CHUNK_SEPARATOR---
+1 Periods and Groups of Elemetns. o
+The most commonly used form of the periodic table is shown in figure 3. 1. Note that the
+i
+elements are listed in order of increasing atomic numbers, from left to rigtht and from top to
+bottom. Hydrogen (H) is in the top left corner. Helium (He), atomic numaber 2, is at the top right
+corner. Lithium (Li), atomic number 3, is at the left end of the second row. d
+The horizontal rows of the periodic table are called periods.
+---CHUNK_SEPARATOR---
+There are varying
+n
+number of elements in periods. How many periods you find in the periodic table? There are
+u
+seven periods. The number of elements per period range from 2 in period 1 to 32 in period 6. First three periods are called short periods and the remoaining periods are called long periods. The properties of elements within a period change gradually as you move from left to right in it. F
+But when you move from one period to the next, the pattern of properties within a period repeats.
+---CHUNK_SEPARATOR---
+This is in accordance to the periodic law. k
+o
+Activity 3. 1
+o
+B
+Look at the periodic table and write number of elements present in the relevant period in the
+table 3. 1
+l
+Table 3. 1 Number of elements in the periods of the periodic table
+a
+nPeriod No. No. of elements
+oFirst
+iSecond
+t
+a Third
+N Fourth
+Fifth
+Sixth
+Seventh
+Teacher’s Point
+Teacher may ask students to memorise elements of 1st two groups and 1st two periods.
+---CHUNK_SEPARATOR---
+44
+3 Periodic Table And Periodicity Of Properties
+n
+o
+i
+t
+a
+d
+n
+u
+o
+F
+k
+o
+o
+B
+l
+a
+n
+o
+i
+t
+a
+N
+45
+3 Periodic Table And Periodicity Of Properties
+Elements that have similar properties lie
+Society, Technology, Science
+in the same column in the periodic table. Each In 1864, John Newland, an English chemist
+vertical column of elements in the periodic arranged 24 elements in order of increasing atomic
+masses. He noticed that every eighth element,
+table is called a group or family.
+---CHUNK_SEPARATOR---
+starting from any point, has similar properties. Few
+Elements with similar valance shell
+rows of his arrangement are shown below:
+electronic configuration are placed in the same
+H Li Be B C N nO
+group. Each group is identified by a number and
+F Na Mg Al Si P S
+o
+the letter A or B. Group A elements are called
+Cl K Ca Cr Ti Mn Fe
+normal or representative elements. They are i
+His scheme however, failed because many
+t
+also called main group elements.
+---CHUNK_SEPARATOR---
+Group B elements were found out of place in his
+a
+elements are called transition elements. arrangement. For instance Ti does not resemble C
+and Si, Mn does not dresemble N and P and Fe does
+Some groups of elements in the periodic
+not resemble O and S. However his arrangement of
+table have been given group names. For n
+elements in order of increasing atomic masses
+example metallic elements in Group 1A are formed basuis for later classification of elements. called alkali metals.
+---CHUNK_SEPARATOR---
+Group IIA elements are In 1869, Mendeleev, a Russian chemist
+develooped a classification scheme of elements. He
+called alkaline earth metals. The elements in
+recognized that if elements were placed in order of
+Group VIIA are halogens. The Group VIIIA F
+increasing atomic masses, the properties of
+elements are called noble gases because they
+elements repeated at regular intervals. He arranged
+do not readily undergo chemical reactions. k65 elements in periods and groups.
+---CHUNK_SEPARATOR---
+Development of
+the periodic table nicely explains how scientist can
+o
+build on one another’s work. o
+Self-Assessment Exercise 3. 1
+B
+In which period and group the following elements are present in the periodic table. (a) Mg
+(b) Ne (c) Si (d) B
+l
+Example 3. 1: Identifyiang the group and period of an element
+n
+Identify the group and period of 27Al, 9B, 24Mg on the basis of electronic configuration. 13 5 12
+o
+Problem Solving Strategy:
+i
+Write electronic configuration of element.
+---CHUNK_SEPARATOR---
+Identify its valence shell. Remember that n
+t
+value of the valence shell indicates period. Total number of electrons in the valence shells
+a
+represents group number. N
+Solution:
+1s2 2s2,2p6 3s2,3p1 K L M
+a) 27Al=
+13 K L M 1 2 3
+Valence shells is M
+As n = 3, Al is present in the 3rd period. Since total number of electrons in the
+valence sub-shells are 2+1=3, it must be present in Group IIIA.
+---CHUNK_SEPARATOR---
+46
+3 Periodic Table And Periodicity Of Properties
+1s2 2s2,2p1 K L
+b) 9B=
+5 K L 1 2
+Valence shell is L
+So n = 2, B is present in the 2nd period. Since total number of electrons in the
+valence shell are 2+1=3, it must be present in Group IIIA. n
+1s2 2s2,2p6 3s2 K L M o
+c) 24M g=
+12 K L M 1 2 3 i
+t
+Valence shell is M
+a
+So n = 3, Mg is present in the 3rd period. Since total number of electrons in the
+d
+valence shell are 2, it must be present in Group IIA. n
+u
+Self-Assessment Exercise 3.
+---CHUNK_SEPARATOR---
+2
+o
+Identify the group and period of the followFing elements on the basis of electronic
+configurations. k
+(a) 28Si, (b) 32S, (c) 19F, (d) 40Ar
+14 16 9 18
+o
+Example 3. 2: Classifying or dividing elements into groups and periods
+o
+Electronic configuration of atoms of some elements are given below. Classify them in
+B
+groups and periods. A. 1s22s2
+l
+B. 1s22s22p3 a
+C. 1s22s22p5
+n
+D. 1s22s22p63s2
+o
+E. 1s22s22p63s23p5
+F. 1s2i2s22p63s23p3
+t
+Problem solving Strategy:
+a
+Remember that:
+N
+1.
+---CHUNK_SEPARATOR---
+The elements whose atoms have similar valence shell electronic configuration belong
+to the same group. 2. The n value of the valence shell indicates period. 3. The elements whose atoms have same value of n for the valence shell lie in the same
+period. 47
+3 Periodic Table And Periodicity Of Properties
+Solution:
+IIA VA VIIA
+Period
+2 A B C
+Period
+2s2 2s22p3 2s22p5
+3 D F E
+n
+3s2 3s23p3 3s23p5
+o
+i
+t
+Self-Assessment Exercise 3. 3 a
+d
+Electronic configuration of atoms of some elements are given below.
+---CHUNK_SEPARATOR---
+Place them into
+groups and periods. n
+P = 1s22s22p2 Q = 1us22s23p1
+R = 1s2 So = 1s22s2
+T = 1s22s1 F W = 1s22s22p6
+X = 1s22s22p63s23p2 Y = 1s22s22p63s23p6
+k
+Z = 1s22s22p1
+o
+IA VIIIA
+o
+IIA B IIIA IVA VA VIA VIIA
+l
+a
+n
+o
+i
+t
+a
+N
+3. 1. 5 s and p Blocks in the Periodic Table
+On the basis of outer most valence sub shell, elements in the periodic table can slso be
+classified into four blocks. Elements of Group IA and Group IIA contain their valence electrons
+in s sub-shell.
+---CHUNK_SEPARATOR---
+Therefore, these elements are called s-block elements. The elements of Group
+IIIA to VIIIA (except He) are known as p – block elements, because their valence electrons lie
+in p sub-shell. Figure 3. 2 shows blocks in the periodic table
+48
+3 Periodic Table And Periodicity Of Properties
+3. 1. 6 Valence Shell Electronic Configuration and Position of an
+Element in the Periodic Table
+You can determine the valence shell electronic configuration of an element from its
+position in the periodic table.
+---CHUNK_SEPARATOR---
+Period number of element indicates n value of the valence shell. Whereas group number of element indicates the number of electrons in the valence shell. n
+Example 3. 3: Obtaining the valence shell configuration
+o
+W rite the valence shell electronic configuration of the following elements from itheir position in
+the periodic table.
+---CHUNK_SEPARATOR---
+t
+a
+(a) Phosphorus (b) Neon
+d
+Problem Solving Strategy:
+Remember that n
+Period number = n value of valence shell u
+Group number = number of valence electrons
+o
+Distribute the electron in the sub-shells of valence shell.
+---CHUNK_SEPARATOR---
+F
+Solution:
+a) Period number of phosphorus is 3, k
+As n = 3 therefore, valence shell is M
+o
+So valence electrons will be present in 3s and 3p sub-shells
+o
+The group number is 5, so there are 5 electrons in the valence shell
+B
+Two electrons will fill 3s sub-shell and remaining 3p sub-shell. Thus, the valence shell
+electronic configuration is 3s23 p3
+l
+b) Period number of Ne is 2. So, n = 2 and valence shell is L. Valence electrons will be
+a
+present in 2s and 2p sub-shells.
+---CHUNK_SEPARATOR---
+n
+Group number for Ne is 8,
+o
+This means there are 8 electrons in the valence shell. Two electrons will fill 2s sub-shell
+and remaining isix 2p sub-shell. Thus the valence shell electronic configuration for Ne is 2s22p6. t
+Exampale 3.
+---CHUNK_SEPARATOR---
+4: Obtaining the position of element in the periodic table from lectronic
+configuration
+N
+Find out the position of the following elements in the periodic table from the electronic
+configuration:
+(a) Nitrogen (atomic number: 7) (b) Oxygen (atomic number: 8)
+Teacher’s Point
+A teacher may ask student to draw Valence shells electronic configuration of some commone elements.
+---CHUNK_SEPARATOR---
+49
+3 Periodic Table And Periodicity Of Properties
+n
+o
+i
+t
+a
+d
+n
+u
+o
+F
+k
+o
+o
+B
+l
+a
+n
+o
+i
+t
+a
+N
+50
+3 Periodic Table And Periodicity Of Properties
+Problem Solving Strategy:
+Write electronic configuration of the element. Identify the valence shell configuration, co-
+efficient of s or p sub-shell represents period number and total number of electrons in valence
+shell is equal to the group number.
+---CHUNK_SEPARATOR---
+Solution:
+n
+a) Electronic configuration of N = 1s22s22p3
+Valence shell has configuration = 2s22p3 o
+Period number = 2 i
+t
+Group number = 2 + 3=5
+a
+Nitrogen is present in the 2nd period of Group V-A
+d
+b) Electronic configuration of oxygen = 1s22s22p4
+Valence shell has configuration = 2s22p4 n
+So, Period number = 2 u
+Group number = 2 + 4 = 6
+o
+Oxygen is present in the 2nd period of Group VI-A
+F
+Self-Assessment Exercise 3. 4
+k
+1.
+---CHUNK_SEPARATOR---
+Obtain the valence shell configuration of Al and S from their position in the periodic table. o
+2. Find out the position of Ne (At. No 10) and Cl (At. No. 17) in the periodic table. 3. 1. 7 Shape of the Periodico Table
+Recall that the horizontal
+B
+rows in the period table are called periods. How are these
+periods formed?
+Elements are arrangeld in order of increasing atomic number. First period contains only
+a
+two elements, H and He. Both these elements have valence electron in K shell.
+---CHUNK_SEPARATOR---
+K shell can not
+have more than two nelectrons. As K shell is completed at He, so the period also ends at He,
+Lithium (Li) atomic number 3 has one electron in L shell, so second period begins with Li. Since
+o
+L shell can accommodate 8 electrons, so eight elements come in the 2nd period. Second period
+i
+ends at Ne which has eight electron, in L shell (2s2 2 p6).
+---CHUNK_SEPARATOR---
+t
+Next eleaments Na has valence electron in the third shell (M – shell ), in Na valence electron is
+present, in 3s sub – shell, which has similar electronic configuration as Li ( 2s1), So it comes
+N
+under Li. Mg with 3s2 valence shell electronic configuration come under Be (2s2), Similarly next
+six elements Al, Si, P, S Cl and Ar on the bases of similar valence shell electronic configuration
+come under B, C, N, O, F, and Ne respectively.
+---CHUNK_SEPARATOR---
+Ar has 3s2 3p6 valence shell configuration
+similar to Ne ( 2s2 2p6). Next element K has 4s1 electronic configuration in the valence shell,
+which is similar to Na(3s1). So K comes under Na and a new period (4th) begins with K. In this
+way elements having similar valance shell configuration come in the same group. The
+arrangement of the elements into periods has an important consequence. The elements that
+have similar properties end up in the same group in the periodic table.
+---CHUNK_SEPARATOR---
+51
+3 Periodic Table And Periodicity Of Properties
+3. 2 PERIODICITY OF PROPERTIES
+In section 3. 1. 4 you learned that, the electronic configuration of elements show a periodic
+variation with the increasing atomic number. Therefore, the elements also show periodic
+variation in their physical and chemical properties. Elements having similar valence shell
+electronic configuration have been placed in the same group, one below the other.
+---CHUNK_SEPARATOR---
+Chemical
+n
+properties depend on the valence shell electronic configuration. Because all the elements of a
+particular group have similar valence shell electronic configuration, they poossess similar
+chemical characteristics. Physical properties depend on the sizes of atoms. Since sizes of atoms
+i
+change gradually from top to bottom in a group. Therefore, elements show gtradation in physical
+properties in the same group.
+---CHUNK_SEPARATOR---
+In a period of periodic table the number of aelectrons present in the
+valance shell increase gradually from left to right. Their chemical and physical properties also
+d
+show variation in the same manner. In this section you will learn variation in some of the physical
+n
+properties of elements in a group and across a period. u
+3. 2. 1 Shielding Effect
+o
+Figure 3. 2 shows electronic configuration of Li, Be and Mg.
+---CHUNK_SEPARATOR---
+Which atom has more shells, Be or Mg? Which Fatom has
+more electrons between the nucleus and the valence
+electrons, Be or Mg? k
+Electrons present in the inner shells cuot off attractive force
+Fig 3. 2 Electronic structure
+between the nucleus and the valence electrons. o of Li, Be and Mg
+The reduction in force of attraction between nucleus
+B
+and the valence electrons by the electrons present in the inner sub-shells is called
+shielding effect.
+---CHUNK_SEPARATOR---
+Which atom has greatler shielding effect, Be or Mg?
+a
+As you move from top to bottom in a group the number of electronic shells increase. So
+n
+the number of electrons in the inner shell also increase. As a result shielding effect increases.
+---CHUNK_SEPARATOR---
+Which aotom, Li or Be has greater number of shells? Which atom, Li or Be has greater
+number of electrons between nucleus and valence electrons?
+i
+t
+As you move from left to right in a period the number of electrons in the inner shells
+a
+remains constant, therefore, shielding effect remains constant. N
+Example 3. 5: Identifying the element whose atoms have greater shielding effect,
+using periodic table
+Choose the elements whose atoms you expect to have greater shielding effect.
+---CHUNK_SEPARATOR---
+(a) Be or Mg (b) C or Si
+Teacher’s Point
+A teacher may ask student to draw shell of first four elements group A to show shielding effect. 52
+3 Periodic Table And Periodicity Of Properties
+Problem Solving Strategy:
+Look at the periodic table and find the relative position of given elements in the periodic
+table. Apply the trend of increasing shielding effect in a group. Solution:
+(a) Mg atoms will have greater shielding effect. n
+(b) Si atoms will have greater shielding effect.
+---CHUNK_SEPARATOR---
+o
+i
+Self-Assessment Exercise 3. 5 t
+a
+Choose the element whose atoms you expect to have smaller shielding effect. d
+(a) F or Cl (b) Li or Na (c) B or Al
+n
+All the physical and chemical properties of the elements depend on the electronic
+u
+configurations of their atoms. Now we will discuss four properties of atoms that are influenced
+by the electronic configuration: atomic size, ionoization energy, electron affinity and
+electronegativity. These properties are periodic.
+---CHUNK_SEPARATOR---
+They generally increase and decrease in a
+F
+recurring or repeating manner through the periodic table. This means they show consistent
+changes or trends, within a group or a period. These trends correlate with the behaviour. k
+3. 2. 2 Atomic Size
+o
+The size of an atom depends on its electronic configuration. The size of an atom is the
+o
+average distance between the nucleus of an atom and the outer electronic shell. Figure
+B
+3. 3 shows atomic radii of the main group elements. Figure 3.
+---CHUNK_SEPARATOR---
+3 shows the va riation in atomic radii in a period and within a group. You can see
+l
+two general trends in atomic radii. a
+(1) The atomicn radius decreases in any given period as you move across the period. This
+is because as you move from one element to the next on its right in a period. Another
+o
+electron is added to the same valence shell. At the same time positive charge on the
+nucleius also increases by 1. The attractive force of the nucleus for the valence shell
+t
+electron increases.
+---CHUNK_SEPARATOR---
+Therefore, the shell size and atomic radius decreases. For
+a
+example, in going from lithium to beryllium, atomic size decreases. This you can
+N
+understand from the valence shell electronic configuration of Li (2s1) and B (2s2). In
+going from Li to Be, there is no change in the shell number n, but atomic number
+increases from 3 to 4. Due to this the force of the nucleus for the valence shell electron
+increases. Therefore, atomic radius decreases.
+---CHUNK_SEPARATOR---
+The atomic radius increases in any given main group as you move down the group of
+elements. This is because the size of an atom is determined by the size of its valence shell. As
+you move to the next lower element in the group, the atom has an additional shell of electrons. This increases atomic radius. For example, in going from Li to Na atomic radius increases. 53
+3 Periodic Table And Periodicity Of Properties
+n
+o
+i
+t
+a
+d
+n
+u
+o
+F
+k
+o
+o
+B
+l
+a
+n
+Figure 3.
+---CHUNK_SEPARATOR---
+3: Atomic radii of the main group elements (in picometer)
+Consider electronic configuration of Li (1s2 2s1) and Na(1s2, 2s2, 2p6, 3s1). A new electronic shell
+o
+has been added that increases atomic size. i
+t
+Example 3. 6: Identifying the element that has greater atomic radius
+a
+NChoose the element whose atom you expect to have larger atomic radius in each of the
+following pairs.
+---CHUNK_SEPARATOR---
+(a) Mg, Al (b) C, Si
+Problem Solving Strategy:
+Remember that the larger atom in any:
+(a) Period lies further to the left in the periodic table. (b) Group lies closer to the bottom in the periodic table. (c) Check the periodic table and choose the element. 54
+3 Periodic Table And Periodicity Of Properties
+Solution:
+(a) The larger atom is Mg
+(b) The larger atom is Si
+Self-Assessment Exercise 3. 6
+n
+Using the periodic table but without looking at the figure 3.
+---CHUNK_SEPARATOR---
+3, choose the eolement whose
+atom you expect to have smaller atomic radius in each of the following pairs. i
+t
+(a) O or S (b) O or F
+a
+3. 2. 3 Ionization Energy
+d
+You have learned in section 1. 3. 1
+n
+how cations are formed. Ionization
+u
+energy is an important property of atoms
+othat explains cation formation. “Ionization energy is defined as the
+F
+minimum amount of energy required
+to remove the outermost electron
+k
+from an isolated gaseous atom”.
+---CHUNK_SEPARATOR---
+o
+M(g) + ionization energy⎯⎯→M+(g) + e-
+o
+Ionization energy is a measure of
+B
+the extent to which the nucleus attracts
+the outermost electron. A high value of
+l
+ionization energy means stronger
+a
+Figure 3. 4 Ionization energies of the main group elements attraction between the nucleus and the
+n
+outermost electron. Whereas a low
+ionization energyo indicates a weaker force of attraction between the nucleus and the outermost
+electron. Figure 3.
+---CHUNK_SEPARATOR---
+4 shows the ionization energies of the main group elements. Values are given
+i
+in units of kJt/mole-1 or kJ/mole. a
+Trends in the values of ionization energies. N
+The ionization energy value decreases from top to bottom in a group. This is because the
+shielding effect in atoms increases as you descend. Greater shielding effects results in a weaker
+attraction of the nucleus for the valence electrons. So, they are easier to remove.
+---CHUNK_SEPARATOR---
+This leads to
+decrease in ionization energy from top to bottom in a group. Which atom has greater shielding effect, Li or Na?
+As you move from left to right in a period, the shielding effect remains constant. But
+progressively nuclear charge increases. A stronger force of attraction between nucleus and the
+55
+3 Periodic Table And Periodicity Of Properties
+valence electron increases. This leads to increase in ionization energy from left to right in a
+period.
+---CHUNK_SEPARATOR---
+Which atom has higher ionization energy, Li or Be?
+Example 3. 7: Identifying the element that has smaller ionization energy
+n
+Choose the element whose atom you expect to have smaller ionization energy in each of
+the following pairs. o
+(a) B,C (b) N, P i
+t
+Problem Solving Strategy a
+Remember that ionization energy:
+d
+(a) Increases across a period. The element that has smaller ionization energy will be further
+n
+to the left in the periodic table. u
+(b) Decreases from top to bottom in a group.
+---CHUNK_SEPARATOR---
+The element that has smaller ionization energy
+will correspond to the element closer to the bottoom. (c) Check the periodic table to choose the element. F
+Solution:
+k
+(a) The atom with the smaller ionization energy is B
+(b) The atom with the smaller ionizoation energy is P. o
+B
+Self-Assessment Exercise 3. 7
+Which atom has the smaller ionization energy?
+l
+a
+(a) B or N (b) Be or Mg (c) C or Si
+n
+3. 2. 4 Electron Affinity
+o
+Electron affinity explains the anion formation.
+---CHUNK_SEPARATOR---
+Electron affinity is defined as the amount
+of energy releiased when an electron adds up in the valence shell of an isolated atom to
+t
+form a uninegative gaseous ion. a
+N
+X(g) + e− ⎯⎯→X−(g) + electron affinity
+Figure 3. 5 shows electron affinities of main group elements. As you move from left to right across a period, the electron affinity generally increases. This is due to increase in nuclear charge and decrease in atomic radius, which binds the extra
+electron more tightly to the nucleus.
+---CHUNK_SEPARATOR---
+But shielding effect remains constant in each period. Therefore, alkali metals have lowest and halogens have the highest electron affinities in each
+period. 56
+3 Periodic Table And Periodicity Of Properties
+The electron affinity decreases from top to bottom in a group. This is due to increase in
+shielding effect. Due to increase in shielding effect added electron binds less tightly to the
+nucleus. As a result less energy is released.
+---CHUNK_SEPARATOR---
+H He
+-73 0
+n
+Li Be B C N O F Ne
+-60 0 -27 -122 +7 -141 -328 0o
+Na Mg Al Si P S Cl iAr
+-53 0 -44 -134 -71. 7 -200 -349 t0
+a
+K Ca Ga Ge As Se Br Kr
+-48 0 -29 -120 -77 -195 d-325 0
+Rb Sr In Sn Sb Tne I Xe
+-47 0 -29 -121 -101 -190 -295 0
+u
+Cs Ba Tl Pb Bi Po At Rn
+o
+-45 0 -30 -110 -110 -180 -270 0
+F
+Figure 3. 5 electron affinities of main group elements
+There are several exceptions to the genkeral trend of election affinity values. You will learn
+reasons for it in grade XI. o
+3. 2.
+---CHUNK_SEPARATOR---
+5 Electronegativity o
+Electronegativity is the aBbility of an atom to attract the electrons towards itself in a
+chemical bond. Figure 3. 6 shows as scale of electronegativities of the elements devised by
+Linus Pauling. The American chemist Linus Pauling devised a method for calculating relative
+l
+electronegativities of elemaents. n
+H He
+2. 1
+o
+Li Be B C N O F Ne
+i
+1. 0 1. 5 2. 0 2. 5 3. 0 3. 5 4. 0 2. 1
+t
+aNa Mg Al Si P S Cl Ar
+0. 9 1. 2 1. 5 1. 8 2. 1 2. 5 3. 0 3. 0
+N
+K Ca Ga Ge As Se Br Kr
+0.
+---CHUNK_SEPARATOR---
+5 1. 0 1. 6 1. 8 2. 0 2. 4 2. 8 2. 1
+Rb Sr In Sn Sb Te I Xe
+0. 8 1. 0 1. 7 1. 8 1. 9 2. 1 2. 5 2. 6
+Cs Ba Tl Pb Bi Po At Rn
+0. 7 0. 9 1. 8 1. 9 1. 9 2. 0 2. 2
+Fr Ra
+0. 7 0. 9
+Figure 3. 6 the electronegativities of elements. 57
+3 Periodic Table And Periodicity Of Properties
+Activity 3. 3
+Determining the general trends in the electronegativities
+You will need:
+n
+• Figure 3. 6
+o
+Carry out the following:
+i
+1.
+---CHUNK_SEPARATOR---
+Move across the second period from left to right and note dowtn the variation in
+electronegativity values. a
+2. Move across the 3rd period from left to right and note down the variation in
+d
+electronegativity values. 3. Make generalization about the variation in electronegatinvites across a period and write
+reason. u
+4. Move from top to bottom in Groups IA and IIA and note down the variation in
+electronegativites value. o
+5.
+---CHUNK_SEPARATOR---
+Move from top to bottom in Groups VIA and VIIA and note down the variation in
+electronegativities value. F
+6. Make generalization about the trend in electronegativity values in a group. Give reason. k
+o
+Key Points
+o
+• When elements are arraBnged in the order of their increasing atomic number, their
+properties are repeated in a periodic manner. • A horizontal row of ele l ments in the periodic table is called a period. a
+• A column of elements in the periodic table is called a group or a family.
+---CHUNK_SEPARATOR---
+• Group IA andn IIA elements are called s-block elements, since s sub-shell fills in these
+elements. o
+• Elements in group IIIA to VIIIA are called p-block elements, because filling of valence p
+i
+sub-shell occurs in these elements. t
+• The length of a period in the periodic table depends on the type of sub-shell that fills. a
+• The decrease in force of attraction between nucleus and the valence electron by the
+N
+electrons present in the inner sub-shells is called shielding effect.
+---CHUNK_SEPARATOR---
+• The size of atom is the average distance between the nucleus of an atom and the outer
+electronic shell. • The atomic radii decrease from left to right in a period. Whereas these increase from top
+to bottom in a group. • Ionization energy is the minimum amount of energy required to remove the outermost
+electron from an isolated gaseous atom.
+---CHUNK_SEPARATOR---
+58
+3 Periodic Table And Periodicity Of Properties
+• Electron affinity is the amount of energy released when an electron adds up in the valence
+shell of an isolated atom to form a uninegative gaseous ion. REFERENCES FOR ADDITIONAL INFORMATION
+• B. Earl and LDR Wilford, Introducion to Advanced Chemistry. • Iain Brand and Richard Grime, Chemistry (11-14). n
+• Lawarie Ryan, Chemistry for you. o
+i
+t
+Review Questions
+a
+1.
+---CHUNK_SEPARATOR---
+Encircle the correct answer:
+d
+(i) Number of periods in the periodic table are:
+n
+(a) 8 (b) 7 (c) 16 (d) 5
+(ii) Which of the following groups contain alkalineu earth metals?
+(a) 1A (b) IIA (c) VIIA (d) VIIIA
+o
+(iii) Which of the following elements belongs to VIIIA?
+F
+(a) Na (b) Mg (c) Br (d) Xe
+(iv) Main group elements are arranged i n _________ groups.
+---CHUNK_SEPARATOR---
+(a) 6 (b) 7 (c) 8k (d) 10
+(v) Period number of 27Al is: o
+13
+(a) 1 (b) 2 o(c) 3 (d) 4
+(vi) Valence shell electronic configuration of an element M (atomic no.
+---CHUNK_SEPARATOR---
+14) is:
+B
+(a) 2s22p1 (b) 2s22p2 (c) 2s22p3 (d) 3s23p2
+(vii) Which of the follo wing elements you expect to have greater shielding effect?
+l
+(a) Li (b) Na (c) K (d) Rb
+a
+(viii) As you move from right to left across a period, which of the following does not
+n
+increase:
+(a) oelectron affinity (b) ionization energy
+(c) nuclear charge (c) shielding effect
+i
+(ix) tAll the elements of Group IIA are less reactive than alkali metals.
+---CHUNK_SEPARATOR---
+This is because
+a
+these elements have:
+N(a) high ionization energies (b) relatively greater atomic sizes
+(c) similar electronic configuration (d) decreased nuclear charge
+2. Give short answers
+i) Write the valence shell electronic configuration of an element present in the 3rd
+period and Group IIIA. ii) Write two ways in which isotops of an element differ.
+---CHUNK_SEPARATOR---
+iii) Which atom has higher shielding effect, Li or Na?
+iv) Explain why, Na has higher ionization energy than K?
+v) Alkali metals belong to S-block in the periodic table, why?
+59
+3 Periodic Table And Periodicity Of Properties
+3. Arrange the elements in each of the following groups in order of increasing
+ionization energy:
+(a) Li, Na, K (b) Cl, Br, I
+4. Arrange the elements in each of the following in order of decreasing shielding
+effect. (a) Li, Na, K (b) Cl, Br, I (c) Cl, Br n
+5.
+---CHUNK_SEPARATOR---
+Specify which of the following elements you would expect to haveo the greatest
+electron affinity. i
+S, P, Cl t
+a
+6. Electronic configuration of some elements are given below, group the elements in
+pairs that would represent similar chemical properties. d
+A = 1s22s2 B = 1s22s22p6 C = 1s22s22p3
+n
+D = 1s2 E = 1s22s22p63s23p3 F = 1s22s1
+u
+G = 1s22s22p63s1 H = 1s22s22p63s2
+o
+7. Arrange the elements in groups and periods in Q. No. 6. IA F VIIIA
+IIA IIIA IVA VA VIA VIIA
+k
+o
+o
+B
+8.
+---CHUNK_SEPARATOR---
+For normal elements, t he number of valence electrons of an element is equal to the
+l
+group number. Faind the group number of the following elements. 27Al 32S 39K 8O
+n 13 , 16 , 19 , 6
+9. Write the ovalence shell electronic configuration for the following groups:
+a. Alkali metals
+i
+b. Altkaline earth metals
+ca. Halogens
+d. Noble gases
+N
+10. Write electron dot symbols for an atom of the following elements
+(a) Be (b) K (c) N (d) I
+11.
+---CHUNK_SEPARATOR---
+Write the valence shell electronic configuration of the atoms of the following
+elements. (a) An element present in period 3 of Group VA
+(b) An element present in period 2 of Group VIA
+60
+3 Periodic Table And Periodicity Of Properties
+12. Copy and complete the following table:
+Atomic Mass No. of No. of No. of
+number number protons neutrons electrons
+11 12
+14 15
+47 25
+27 13 n
+13 Imagine you are standing on the top of Neon-20 nucleus.
+---CHUNK_SEPARATOR---
+How many kinds of sub-atomic
+o
+particles you would see looking down into the nucleus and those you would see looking
+i
+out from the nucleus. t
+14. Chlorine is a reactive element used to disinfect swimming pools. It is made up of two
+a
+isotopes Cl-35 and Cl-37. Because Cl-35 is more than Cl-37, the atomic mass of chlorine
+d
+is 35. 5amu. is closer to 35 than 37. Write electronic configuration of each isotope of
+chlorine. Also write symbol for these isotopes (natomic number for chlorine
+is 17).
+---CHUNK_SEPARATOR---
+u
+15. In which block, group and period in the periodic table where would you place each of the
+o
+following elements with the following electronic configurations?
+(a) 1s22s1 (b) 1s22s22p5 (c) 1Fs22s22p63s2 (d) 1s2
+k
+Think-Tank
+o
+1. What types of elements have the highest ionization energies and what types of
+o
+elements have the lowest ionization energies. Argue. 2. Two atoms have electronBic configuration 1s22s22p6 and 1s22s22p63s1.
+---CHUNK_SEPARATOR---
+The ionization
+energy of one is 2080kJ/mole and that of the other is 496kJ/mole. Match each ionization
+energy with one of the given electronic configuration. Give reason for your choice. l
+3. Use the second maember of each group from Group IA, IIA and VIIA to judge that the
+number of valence electron in an atom of the element is the same as its group number. n
+4.
+---CHUNK_SEPARATOR---
+Letter A, B, C, D , E, F indicates elements in the following figure:
+o
+i
+t
+C
+a
+A B
+N
+D E
+F
+61
+3 Periodic Table And Periodicity Of Properties
+a. Which elements are in the same periods?
+b. Write valence shell electronic configuration of element D. c. Which elements are metals?
+d. Which element can lose two electrons?
+e. In which group E is present?
+f. Which of the element is halogen?
+n
+g. Which element will form dipositve cation?
+o
+h. Write electronic configuration of element E
+i.
+---CHUNK_SEPARATOR---
+Which two elements can form ionic bond? i
+t
+j. Can element C form C molecule? Interpret. 2
+a
+k. Which element can form covalent bonds?
+l. Is element F a metal or non-metal? d
+5. Electronic configurations of four elements are given below:
+n
+(a) 1s22s1 (b) 1s22s22p5 (c) 1s22s22p63s2 (d) 1s2
+u
+Which of these elements is
+i) An alkali metal o
+ii) An alkaline earth metal
+F
+iii) A noble gas
+iv) A halogen
+k
+6.
+---CHUNK_SEPARATOR---
+Argue in what region of the periodic table you will find elements with relatively
+o
+a) high ionization energies
+b) low ionization energies o
+B
+l
+a
+n
+o
+i
+t
+a
+N
+62
+4 Structure of Molecules
+4
+STRUCTURE OF MOLECULES
+n
+o
+i
+This is a 20 days lesson Pre
+t
+- Reading
+After completing this lesson, you will be able
+a
+to: All the matter in this world is
+• Find the number of valence electrons in an atom using d
+composed of almost entirely
+the Periodic Table
+• Describe the importance of noble gas electronic comnpounds and their mixtures.
+---CHUNK_SEPARATOR---
+configurations. Human, animal and plant bodies,
+u
+• Describe the formation of cations from an atom of a
+rocks, soil, petroleum, coal etc. are
+metallic element. Describe the formation of anions
+o
+all complex mixtures of
+from an atom of a non-metallic element. • Describe the ways in which bonds may be formedF. compounds. In compounds
+• Describe the formation of a covalent bond between
+different kinds of atom are
+two nonmetallic elements.
+---CHUNK_SEPARATOR---
+• Describe with examples single, double kand triple bounded together. Few elements
+covalent bonds. also consist of unbounded atoms. o
+• Draw electron cross and dot structures for simple
+For instance helium, neon, argon,
+covalent molecules containing single, double and
+o
+xenon and krypton present in the
+triple covalent bonds. • Explain how element attain sBtability. atmosphere consist of unbounded
+• Recognize a compound as having ionic bonds. atoms.
+---CHUNK_SEPARATOR---
+The manner in which
+Identify characteristic of ion ic compounds. various atoms are bonded together
+• State the octet and duplelt rules
+• State the importanace of the noble gas electronic has a profound effect on the
+configurations in the formation of ion. properties of substances. n
+Some substances are hard
+o
+and tough, others are soft and
+flexible why? Riesins are widely used to paint dams, bridges, buildings and automobiles.
+---CHUNK_SEPARATOR---
+What
+t
+makes them sticky? How do adhesives such as glue bind two surfaces together? What is the
+a
+nature of such linkages? The answer lies in the nature of bonding and structure of their
+moNlecules. Therefore, to understand the behaviour of various substances, you must understand
+the nature of chemical bonding and structure of molecules. Reading
+4. 1 WHY DO ATOMS REACT?
+In chapter 3, you have learned the arrangement of elements on the periodic table.
+---CHUNK_SEPARATOR---
+You
+noticed that each period on the periodic table starts with alkali metal (except period I that starts
+4 Structure of Molecules 63
+with hydrogen) and ends at a noble gas. The noble gases have ns2np6 electronic configuration
+in the outer most shell. These elements are sometimes called the inert gases. This is because
+they do not participate in chemical reactions.
+---CHUNK_SEPARATOR---
+Electronic configurations of first three noble gases
+are shown below:
+He = 1s2
+Ne = 1s22s22p6 n
+Ar = 1s2 2s22p63s23p6 o
+Note that these elements have completely filled outer most s and p suib-shells. Helium
+t
+contains two electrons and remaining noble gases contain 8 electrons in the valence shell. a
+Because of these configuration noble gases are stable and not active. In 1916 a chemist G. N. Lewis used this fact to explain why atoms undergo chemicald reactions.
+---CHUNK_SEPARATOR---
+He called his
+explanations as Octet Rule. An octet is a set of eight. In forming ncompounds, atoms tend to gain
+electronic configuration of a noble gas. Remember that each noble gas (except He) has eight
+u
+electrons configuration in the valence shell. Thus the octet rule takes its name from this fact
+about noble gases. o
+F
+The tendency of atoms to acquire eight electron configuration in their valence
+shell, when bonding, is called octet rule.
+---CHUNK_SEPARATOR---
+k
+Helium has two electrons in its valence shell and is also chemically inert. Some
+o
+elements that are close to He on the periodic table tend to achieve two electron configuration in
+their valence shell. For example hydroogen, lithium and beryllium etc tend to achieve two electron
+configuration in the valence shell. B
+The tendency of some atoms to acquire two electron configuration in their
+valence shell, when bonding, is called duplet rule. l
+a
+Example 4.
+---CHUNK_SEPARATOR---
+1: Obtaining the number of valence electrons in an atom using the
+n
+periodic table. o
+Find the number of valence electrons in the following atoms using the periodic table. i
+(a) tCarbon (b) Magnesium (c) Phosphorus
+a
+Problem Solving Strategy:
+N
+Remember that the group number of main group elements indicates the number of
+valence electrons in an atom. Check the group number of the elements in the periodic table and
+find the number of valence electrons.
+---CHUNK_SEPARATOR---
+Solution:
+(a) Carbon belongs to Group IVA, so it contains four electrons in the valence shell. (b) Magnesium belongs to Group IIA, so it contains two electrons in the valence shell. (c) Phosphorus is present in Group VA, so it has five electrons in the valence shell. 64
+4 Structure of Molecules
+Self-Assessment Exercise 4. 1
+Find the number of electrons in valence shell of the following atoms using the periodic
+table.
+---CHUNK_SEPARATOR---
+(a) Silicon (b) Sulphur (c) Bromine (d) Argon (e) Potassium (f) Nitrogen
+n
+Reading o
+i
+t
+4. 2. CHEMICAL BONDS
+a
+Atoms combine to form various types of substances. But wdhat holds them together?
+Fundamentally, some forces of attraction hold atoms together in substances. These forces are
+n
+called chemical bonds. Basically the forces of attraction that lead to chemical bonding between
+atoms are electrical in nature.
+---CHUNK_SEPARATOR---
+Electronic structure of an atomu helps us to understand how atoms
+are held together to form substances. Atoms other than the noble gases have a tendency to
+o
+react with other elements. These elements are reactive because they tend to gain stability by
+F
+loosing or gaining electrons. When atoms gain or lose electron they acquire the configuration of
+next noble gas element. k
+Atoms can also acquire the configuration of next noble gas element by sharing electrons. o
+4.
+---CHUNK_SEPARATOR---
+3 TYPES OF BONDS
+o
+Depending on the tendencBy of an atom to lose or gain or share electrons, there are two
+types of bonds:
+1. Ionic bonds l
+a
+2. Covalent bonds
+n
+4. 3. 1 Ionic Bonds
+o
+Ionic bonds are formed between two atoms, when one atom loses electron to form
+cation and thei other atom gains this electron to form anion. t
+a
+Example 4. 2: Describing the formation of cations. N
+Describe the formation of Na+ and Mg+2 cations. Problem Solving Strategy:
+1.
+---CHUNK_SEPARATOR---
+Sodium belongs to Group IA on the periodic table. It has only one electron in the valence
+shell. Sodium atom loses its valence electron and is left with an octet. Represent this by
+drawing the complete electronic configuration or using an electron dot structure. 2. Magnesium belongs to Group IIA in the periodic table. It has two valence electrons. Magnesium atom loses these electrons to achieve noble gas configuration.
+---CHUNK_SEPARATOR---
+Represent
+4 Structure of Molecules 65
+this by drawing the complete electronic configuration or using an electron dot structure. This number also corresponds to the Group number in the periodic table.
+---CHUNK_SEPARATOR---
+Solution:
+(a) Formation of Na+ ion
+-e−
+Na
+1s22s22p63s1 ⎯⎯⎯→Na+ 1s22s22p6
+n
+You can also represent this by following electron o
+dot structure,
+i
+(b) Formation of Mg+2 ion t
+a
+Mg
+−2e− d
+1s22s22p63s2 ⎯⎯⎯→Mg+2 1s22s22p6
+n
+You can also represent this by electron dot structure,
+u
+o
+Self-Assessment Exercise 4. 2
+F
+1. Describe the formation of cations for the following metal atoms:
+k
+(a) Li(atomic no 3)
+o
+(b) Al(atomic no. 13)
+o
+2.
+---CHUNK_SEPARATOR---
+Represent the formation of cations for the following metal atoms using electron
+dot structures. B
+(a) K (b) Ca
+l
+Example 4. 3: Describiang the formation of anions. n
+Describe the formation of anions for the following non-metal atoms:
+(a) Oxoygen(atomic no. 8) (b) Fluorine (atomic no. 9)
+Problem Soilving Strategy:
+t
+1. Write electronic configuration or dot structure. a
+2. Find the number of electrons needed to acquire eight electron configuration. N
+3. Represent addition of electrons.
+---CHUNK_SEPARATOR---
+Solution:
+(a) Formation of anion by oxygen atom. Oxygen belongs to Group VIA on the periodic table. So it has six electrons in its
+valence shell. It needs two electrons to achieve noble gas configuration. 66
+4 Structure of Molecules
+O 1s22s22p4 +2e- ⎯⎯→O-2 1s22s22p6
+octet
+You can also represent this by electron dot structure,
+(b) Formation of anion by fluorine atom
+n
+Fluorine belongs to Group VIIA on the
+o
+periodic table. So it has seven electrons in the
+valence shell.
+---CHUNK_SEPARATOR---
+A fluorine atom theirefore, requires
+t
+only one electron to complete octet. a
+F 1s22s22p5+e−d⎯⎯→F− 1s22s22p6
+n octet
+You can also represent this by electron dot structure, u
+o
+F
+Self-Assessment Exercise 4. 3
+1. Describe the formation of anionsk by the following non-metals. (a) Sulphur (atomic No. 16)
+o
+(b) Chlorine(atomic No. 17)
+o
+2. Represent the formation of anions by the following non-metals using electron
+B
+dot structures.
+---CHUNK_SEPARATOR---
+(a) N (b) P (c) Br (d) H
+l
+Anions and cataions have opposite charges. They attract one another by
+electrostatic forces. “The forces of attraction that bind oppositely charged ions are
+n
+called ionic bonds”. Compounds that consist of ions joined by electrostatic forces are
+called ionic comopounds. The total positive charge of the cations must be equal to the
+total negative charge of the anions. This is because ionic compounds as a whole are
+i
+electrically tneutral. a
+Example 4.
+---CHUNK_SEPARATOR---
+4: Representing ionic bond formation. N
+For each of the following pairs of atoms, use electron dot & electron cross structures to
+write the equation for the formation of ionic compound. (a) Na and Cl (b) Mg and F
+Problem Solving Strategy:
+1. The metal atoms form cations and non-metal atoms form anions. 2. The number of electrons lost by metal atoms of group IA, IIA and IIIA equals the
+group number. 4 Structure of Molecules 67
+3.
+---CHUNK_SEPARATOR---
+To write the final form of the equation, you need to know the simplest ratio of cations
+to anions that you require for the neutral compound. 4. Write equation using electron dot & electron cross structures. Solution:
+(a) Na is metal and Cl is non-metal. n
+Metal atom tends to lose electrons and non – metal atoms tends to gain electrons to
+o
+acquire electronic configuration of nearest noble gas. Since Na atom has one electron in
+the outer most shell. It losses one electron to form ion.
+---CHUNK_SEPARATOR---
+Since Cl iatom has seven
+t
+electrons in outermost shell, it needs one electron to complete octet. So it gains one
+a
+electron to form − ion. For every ion, you need one − ion. d
+n
+u
+o
+F
+(b) Mg is metal and F is non-metal. k
+Mg atom has two electrons in the outermost shell. It losses two electrons to form Mg+2
+o
+ion. Since F atom has seven electrons in the outermost shell, so it gains one electron to
+form F-ion. o
+For every Mg+2 ion you Bneed two F−ions.
+---CHUNK_SEPARATOR---
+l
+a
+n
+o
+i
+t
+a
+N
+Self-Assessment Exercise 4. 4
+For each of the following pairs of atoms, use electron dot and electron cross structures to
+write the equation for the formation of ionic compound. (a) Mg and O (b) Al and Cl
+68
+4 Structure of Molecules
+Example 4. 5: Recognizing a compound as having ionic bonds. Recognize the following compounds as having ionic bonds. (a) MgO (b) NaF
+Problem Solving Strategy:
+n
+1.
+---CHUNK_SEPARATOR---
+The metal atom loses electrons to form cations and non-metal atom gains electrons to
+o
+form anions. i
+2. The number of electrons lost by metal atoms of group IA, IIA and IIIA equalts the group number. The number of electrons gained by the non-metal atoms is equala to 8 minus group
+number. d
+3. Find the simplest ratio of cations to anions, to identify the compound. n
+Solution:
+u
+(a) MgO
+o
+Mg is metal and O is non-metal. Mg atom has two electrons in outermost shell.
+---CHUNK_SEPARATOR---
+So it loses
+two electrons to form ion. Since O atomF has six electrons in outermost shell, so it
+gains two electrons to form − ion. In this way both the atoms acquire nearest noble gas
+k
+configuration. For every ion you need one − ion. Chemical formula of resulting
+o
+compound is MgO. Therefore MgO is an ionic compound. o
+(b) Na is metal and F is non-metal. Na atom has one electron in outmost shell. So it loses
+one electron to form iBon.
+---CHUNK_SEPARATOR---
+Since F atom has seven electrons in outermost shell, so it
+gains one electron to form F−ion. Na atom by losing one electron and F atom by gaining
+one electron acquire nlearest noble gas electronic configuration. You need one F−ion for
+a
+each Na+ ion. Therefore, NaF is an ionic compound. n
+o
+Self-Assessment Exercise 4. 5
+i
+Recotgnize the following compounds as having ionic bonds:
+a
+(a) KCl (b) AlCl (c) MgF
+3 2
+N
+Reading
+4. 3.
+---CHUNK_SEPARATOR---
+2 Covalent Bonds
+In the preceding section you have learned the formation of ionic bonds between two
+atoms. Ionic compounds such as NaCl, are crystalline solids with high melting points. However,
+some compounds have very different properties. HCl is a gas at room temperature. Water (H O)
+2
+is a liquid. Such compounds are not ionic. These compounds are made up of non-metal atoms. Non–metals have high ionization energies, therefore, they do not lose electrons.
+---CHUNK_SEPARATOR---
+Non–metal
+4 Structure of Molecules 69
+atoms tend to share electrons among themselves or with other non–metal atoms to form a
+chemical bond called covalent bond. A Covalent bond is formed by mutual sharing of
+electrons between two atoms. Consider the formation of covalent
+bond in hydrogen molecule. A hydrogen
+atom has a single valence electron. Two
+n
+hydrogen atoms share their valence
+o
+electrons to form a diatomic molecule.
+---CHUNK_SEPARATOR---
+i
+H + H⎯⎯→H:H shared pair of electrons
+t
+a
+In the formation of this molecule, each hydrogen atom achieves the electron configuration
+d
+of the noble gas, helium which has two valence electrons. An electron pair in the region between
+the two atoms is attracted to both hydrogen nuclei. This means nit is a more stable situation than
+that exists in separate atoms. Because of this stability two atoms form a covalent bond.
+---CHUNK_SEPARATOR---
+u
+We can represent the formation of a covalent bond between two atoms using electron-
+o
+dot and electron-cross symbols for the atoms and the resulting molecule. As already discussed
+F
+that valence electrons are represented by dots. Just to understand sharing, we represent
+valence electrons in one atom by dots and in the other atom by crosses. However, remember
+k
+that all the electrons are identical and cannot be differentiated.
+---CHUNK_SEPARATOR---
+A shared pair of electrons is also
+represented by a dash (-) in a molecule. o
+Consider the formation of a bond between two fluorine atoms. Fluorine belongs to Group
+o
+VIIA, so it has seven electrons in the valence shell. It needs one more electron to attain the
+B
+electron configuration of a noble gas. Thus two F-atoms
+share an electron pair and ach ieve electron configuration
+of Ne. For sharing each F-atolm contributes one electron to
+a
+complete the octet.
+---CHUNK_SEPARATOR---
+n
+Pairs of valence electrons which are not shared between atoms are called unshared
+pairs or lone paoirs. Covalenit bond that is formed by the sharing of one electron pair is called single
+t
+covalent bond. So and molecules contain a single covalent bond. a
+Can you explain the formation of covalent bond between H-atom and a F-atom?
+N
+Sometimes atoms may share two or three electron
+pairs to complete octet. Double covalent bonds are the
+bonds that are formed by sharing of two electron pairs.
+---CHUNK_SEPARATOR---
+Triple covalent bonds are the bonds that involve three
+shared pairs of electrons. Teacher’s Point
+A teacher may show bonds to students by balls and springs. 70
+4 Structure of Molecules
+Consider the formation of O molecule. 2
+Oxygen is in Group VI A, so it has 6 electrons
+in the valence shell. It needs two electrons to
+complete its octet. So for sharing each O-atom
+contributes two electrons. n
+Can you explain the formation of N molecule?
+2
+o
+Example 4.
+---CHUNK_SEPARATOR---
+6: Drawing electron cross and dot structures for simple covalent
+i
+molecules containing single covalent bonds
+t
+a
+Draw electron cross and dot structures for (a) CH that is a major component of natural
+4 d
+gas (b) H O that covers about 80% of the earth crust. 2
+n
+Problem Solving Strategy:
+u
+1. Decide from the chemical formula which atom is the central atom. An atom that
+contributes more electrons for sharing is the centoral atom. Show its valence electrons by
+dots.
+---CHUNK_SEPARATOR---
+Note the number of electrons it needs to complete octet. If the number of electrons
+F
+needed equals the other atoms, each atom will form a single covalent bond. 2. Arrange other atoms around the central atom. Connect the central atom by single bonds. k
+Use cross to represent electrons of the other atoms. o
+3. Check whether the arrangement of electron satisfies the octet rule. o
+Solution:
+B
+(a) CH
+4
+(i) C has four electrons in the valence shell and needs four electrons to
+l
+comaplete its octet.
+---CHUNK_SEPARATOR---
+H has only one valence electron and needs one
+electron to complete duplet. So C can form four single bonds with four H-
+n
+atoms. C is the central element. o
+(ii) Connect the atoms with a dot and a cross
+i
+t H O
+2
+a
+(i) O has six valence electrons and each hydrogen atom has one
+N
+x
+valence electronH. So O-atom needs two electrons to complete octet. Each H needs one electron to complete duplet. (ii) O is central atom and will form two single bonds with H-atoms.
+---CHUNK_SEPARATOR---
+(iii) Arrange H-atoms around O and connect them by a pair of electrons
+(one dot and one cross)
+4 Structure of Molecules 71
+Self-Assessment Exercise 4. 6
+Draw electron cross and dot structures for the following molecules:
+(a) NH that is used to manufacture urea. 3
+n
+(b) CCl , a dry cleansing agent. 4
+o
+(c) SiCl , used to make smoke screens. 4
+i
+(d) H S, a poisonous gas. t
+2
+a
+Example 4.
+---CHUNK_SEPARATOR---
+7: Drawing electron cross and dot structures for molecules containing
+d
+multiple bonds
+n
+Draw electron cross and dot structures for the following molecules:
+u
+(a) CO , a component of air and is responsible for green house effect. 2
+o
+(b) HCN, used as insecticide. F
+Problem Solving Strategy:
+1. Decide from the formula which atom is to be in the center. Show its valence electrons
+k
+by dots. Note the number of electrons it needs to complete octet. o
+2.
+---CHUNK_SEPARATOR---
+Show valence electron of the other atoms by cross and find the number of electrons
+each of the atoms needs to complete octet or duplet. o
+3. Connect central atom with the other atoms by electron pair or pairs to satisfy the octet
+B
+rule. Solution:
+l
+(a) CO a
+2
+(i) C has fourn electrons in the valence shell. It needs four electrons to complete octet. (ii) Each ooxygen atom has six valence electrons and needs two electrons to have an octet.
+---CHUNK_SEPARATOR---
+i
+t
+a
+N
+(iii) C is central atom, arrange O-atoms around it. (iv) Since C needs four electrons and there are only two
+oxygen atoms. So it will share its two electrons with each
+oxygen atom. 72
+4 Structure of Molecules
+(b) HCN
+(i) H has one, C has four and N has five electrons. (ii) C needs four and N needs three electrons. So C shares one electron with H to form a
+single bond and three electrons with N to form a triple bond. This will satisfy octet rule.
+---CHUNK_SEPARATOR---
+n
+o
+i
+t
+a
+d
+n
+u
+o
+F
+Self-Assessment Exercise 4. 7
+k
+Draw electron cross and electron dot structures for the following molecules:
+(a) CS an organic solvent thaot dissolves sulphur, phosphorus etc
+2
+o
+(b) N a component of air. 2
+B
+Reading
+l
+a
+4. 4 INTERMOLECULAR FORCES
+n
+A covalenot bond can occur between two similar atoms such as inH , N , O , Cl etc. It
+2 2 2 2
+can also occuri between two unlike atoms, such as in HCl, H O, NH , HCN, CO etc.
+---CHUNK_SEPARATOR---
+2 3 2
+t
+Wahen two identical atoms share electron pairs, both the atoms exert same force on the
+shared electron pairs. Such a covalent bond is called non-polar covalent bond. For example,
+N
+bond in H-H, O = O, NN etc are non-polar covalent bonds. On the other hand, when two
+different atoms share electron pair, both the atoms exert different forces on the shared electron
+pair. More electronegative atom pulls shared electrons pairs with greater force towards itself
+then the other.
+---CHUNK_SEPARATOR---
+So more electronegative atom partially draws electron density towards itself. This
+makes it partially negatively charged and other atom partially positively charged. Such a covalent
+bond is called polar covalent bond. The forces of attraction thus
+created between the molecules are called intermolecular forces. For example,
+4 Structure of Molecules 73
+These intermolecular forces are weaker than an ionic or a covalent bond. There are
+several types of intermolecular forces.
+---CHUNK_SEPARATOR---
+We will discuss two of these. Dipole-dipole interactions
+occur between polar molecules. Figure 4. 1 shows these interactions
+You know that paints and dyes are
+used to protect solid surfaces from the
+atmospheric effects. They also give visual n
+appeal. Resins are used to coat materials
+o
+that give toughness, flexibility, adhesion
+i
+and chemical resistance. For example
+t
+dams, bridges, floors, trains, buses, cars
+a
+etc are painted with resins.
+---CHUNK_SEPARATOR---
+The synthetic
+d
+resins are used where water resistance is
+required. Chemically, resins are either n
+adhesive or they form bond linkages with
+u
+the material being bonded together. What
+Fig 4. 1: Dipole-Dipole interactions
+o
+is the nature of these linkages?
+F
+Notice that slightly negative end of polar molecule is weakly attracted to the slightly
+positive end of another molecule. Such attracting forces are called dipole-dipole interactions.
+---CHUNK_SEPARATOR---
+k
+Molecules in which hydrogen is covalently bonded to a very electronegative atom such
+o
+as oxygen, nitrogen or fluorine is also weakly bonded to a lone pair of electron of another
+electronegative atom. This other atoom
+may occur in the same molecule Bor in a
+nearby molecule. This intermolecular
+interaction is called hydrogen bonding. l
+Oxygen, nitrogen or flauorine makes
+hydrogen very electron-deficient.
+---CHUNK_SEPARATOR---
+Thus
+n
+interaction of such a highly electron
+o
+deficient hydrogen and lone pair on a
+nearby eliectronegative atom
+t
+compensates for the deficiency. Figure
+a
+4. 2 shows hydrogen bonding in water
+moNlecules. The interaction of a highly
+electron deficient hydrogen and lone
+pair on a nearby highly
+electronegative atom such as N, O or
+F is called hydrogen bond. This
+phenomenon is called hydrogen
+bonding. Fig 4.
+---CHUNK_SEPARATOR---
+2: Hydrogen bonding in water
+74
+4 Structure of Molecules
+These intermolecular forces are extremely
+Society, Technology and Science
+Epoxy adhesives have excellent important in determining properties of water,
+chemical resistance, good adhesion biological molecules, such as proteins, DNA etc and
+properties, good heat resistance and they
+synthetic materials such as glue, paints, resins etc. form strong and tough coating.
+---CHUNK_SEPARATOR---
+Therefore,
+The adhesive action of paints and dyes is developed
+propellers and parts of aircraft, boats, cars,
+due to hydrogen bonding. Synthetic resins bind two
+trucks etc are held together by epoxy n
+adhesives. Epoxy adhesives contain partially surfaces together by hydrogen bonding or dipole-
+o
+positively charged H-atoms and oxygen dipole interactions. atoms containing lone pairs in their
+i
+molecules. Epoxy adhesives are, therefore, t
+sticky and can make H-bonds with other 4.
+---CHUNK_SEPARATOR---
+5 NATURE OF BONDING A a ND PROPERTIES
+substances. Modern aircraft, boats and
+Compounds that consist of ions joined by
+automobiles such as cars, trucks etc and d
+even in space craft epoxy adhesives are electrostatic forces are called ionic compounds. At
+n
+used for assembling, saving money and room temperature most of the ionic compounds are
+reducing weight. This means glues and crystalline solids. u Figure 4.
+---CHUNK_SEPARATOR---
+3 shows arrangement of
+adhesives have become an essential item in
+ions in NaCl and CsCl crystals. o
+our daily life. F
+k
+o
+o
+B
+l
+a
+n
+o
+i
+t
+Fig 4. 3: Arrangement of ions in NaCl and CsCl crystals
+a
+NNote that both NaCl and CsCl form colorless cubic crystals. Each Na+ ion is surrounded
+by six Cl− ions and each Cl− ion is surrounded by six Na+ ions. Internal structure of CsCl is
+different from NaCl.
+---CHUNK_SEPARATOR---
+In CsCl each Cs+ ion is surrounded by eight Cl−ions and each Cl− ion is
+surrounded by eight Cs+ ions. Thus in crystals each ion is attracted strongly to each of its
+neighbours. The large attracting forces result in a very stable structure. So ionic compounds
+have high melting points. For example, melting point of NaCl is 801oC. Teacher’s Point
+A teacher may ask the students to make a model of NaCl
+4 Structure of Molecules 75
+When melted ionic compounds
+conduct electricity, figure 4.
+---CHUNK_SEPARATOR---
+4 shows
+that NaCl melts and the Na+ and Cl−
+ions are free to move throughout the
+molten salt. When voltage is applied,
+Na+ ions move towards negative
+n
+electrode. At the same time, Cl− ions
+o
+move towards positive electrode. This
+movement of ions inside a cell is i
+t
+responsible for flow of electricity
+a
+between the electrodes in the external
+d
+wire. n
+Aqueous solutions of ionic
+compounds also conduct electricity. u
+Figure 4.
+---CHUNK_SEPARATOR---
+4: conduction of electricity through molten NaCl
+This is because when an ionic
+o
+compound dissolves in water, the ions are free to move about in the aqueous solution. F
+Society, Technolog y and Science
+k
+Synthetic adhesives such as glues and epoxy resins are used in large scale industrial applications. Glues are less costly than synthetic adhesives. Glues are extensively used as an adhesive for veneer, plywood,
+o
+corrugated cartons and laminated boards.
+---CHUNK_SEPARATOR---
+Glues for glass and metal are also available. Epoxy resins are used
+where water resistance is required. They foorm strong and tough coating. They also give flexibility and chemical
+resistance. For these reasons, dams, bridges, thermal power stations are coated with epoxy resins. In modern
+B
+air craft and automobile epoxy resin adhesives are used for assembling, saving money and reducing weight. Hence there is a need for more adhesives. l
+a
+Key Pointns
+• An octet iso a set of eight.
+---CHUNK_SEPARATOR---
+In order to gain stability atoms tend to gain electron configuration
+of neareist noble gas. t
+• The tendency of atoms to acquire eight electron configuration in their valence shell, when
+a
+binding is called octet rule. N
+• Ionic bonds are formed between two atoms, when one atom loses electrons and other
+atom gains these electrons. The force of attraction that binds oppositely charged ions is
+called ionic bonds. • Ionic compounds have high melting points.
+---CHUNK_SEPARATOR---
+They conduct electricity in molten state. • A bond that is formed by the sharing of electrons between two atoms is called a covalent
+bond. A covalent bond can be single, double or triple. • The interaction of a highly electron deficient hydrogen and lone pair on a nearby
+electronegative atom is called hydrogen-bond. 76
+4 Structure of Molecules
+• The adhesive action of paints and dyes is developed due to hydrogen bonding. REFERENCES FOR ADDITIONAL INFORMATION
+• Lawarie Ryan, Chemistry for you.
+---CHUNK_SEPARATOR---
+• Iain Brand and Richard Grime, Chemistry (11-14). • Silberg, Chemistry. n
+• Raymond Chang, Essential Chemistry. o
+i
+t
+a
+Review Questions
+d
+n
+1. Encircle the correct answer:
+(i) Which of the following atoms will form an ion ouf charge -2?
+Atomic Number Mass Number Atomic Number Mass Number
+o
+(a) 12 24 (b) 14 28
+F
+(c) 8 8 (d) 10 20
+(ii) Which of the following atoms will no t form cation or anion. k
+a. A (Atomic No. 16)
+b. B (Atomic No. 17) o
+c. C (Atomic No. 18)
+o
+d. D (Atomic No.
+---CHUNK_SEPARATOR---
+19)
+B
+(iii) Which of the following atoms will form cation. Atomic Number Atomic Number
+(a) 20l (b) 18
+a
+(c) 17 (d) 15
+(vi) Which onf the following atoms obey duplet rule?
+(a) O (b) F (c) F (d) N
+o2 2 2 2
+(v) Silicon belongs to Group IVA. It has ____ electrons in the valence shell
+i
+(a) 2 (b) 3 (c) 4 (d) 6
+t
+(vi) Phosphorus belongs to third period of Group VA. How many electrons it needs
+a
+to complete its valence shell.
+---CHUNK_SEPARATOR---
+N(a) 2 (b) 3 (c) 4 (d) 5
+(vii) In the formation of AlF , aluminum atom loses _____ electrons. 3
+(a) 1 (b) 2 (c) 3 (d) 4
+(viii) Which of the following is not true about the formation of Na S:
+2
+(a) Each sodium atom loses one electron
+(b) Sodium forms cation (c) Sulphur forms anion
+(d) Each sulphur atom gains one electron
+(ix) Identify the covalent compound
+(a) NaCl (b) MgO (c) H O (d) KF
+2
+4 Structure of Molecules 77
+2. Give short answers
+i. State octet and duplet rules. ii.
+---CHUNK_SEPARATOR---
+Explain formation of covalent bond between two nitrogen atoms
+iii. How does Al form cation?
+iv. How does O from anion?
+v. Draw electron cross and dot structure for H O molecule. 2 n
+3. Describe the importance of noble gas electronic configuration. o
+4. Explain how elements attain stability?
+5. Describe the ways in which bonds may be formed. i
+t
+6. Describe the formation of covalent bond between two non-metallic elements. a
+7. Explain with examples single, double and triple covalent bond. d
+8.
+---CHUNK_SEPARATOR---
+Find the number of valence electrons in the following atoms using the periodic table:
+(a) Boron (b) Neon (c) Rubidium (d) Bariunm (e) Arsenic
+9. Represent the formation of cations for the following metal atoms using electron dot
+u
+structures. o
+(a) Al (b) Sr (c) Ba
+10. Describe the formation of anions for the followFing non-metal atoms:
+(a) P (b) Br (c) H
+11. Represent the formation of cations fokr the following metal atoms using electron dot
+structures. o
+(a) Mg (b) Li (c) Be
+o
+12.
+---CHUNK_SEPARATOR---
+For each of the following pairs of atoms, use electron dot and electron cross
+structures to write the equBation for the formation of ionic compound. (a) K and Cl (b) Ca and S (c) Al and N
+13. Recognize the following compounds as having ionic bonds. l
+(a) MgCl (b) KaBr (c) NaI
+2
+14. An atom of ann element has atomic number 9 and mass number 19. (a) State the number of protons and neutrons in the nucleus of this atom. o
+(b) State the number of electrons in this atom.
+---CHUNK_SEPARATOR---
+i
+(c) Show with electron cross-dot diagrams, the formation of ions in the reaction of
+t
+this atom with sodium atom. a
+15. Is there a need for more adhesives?
+N
+16. What is the importance of glues and adhesives in our society?
+78
+4 Structure of Molecules
+Think-Tank
+1: Magnesium oxide is a compound made up of magnesium ions and oxide ions. O Mg O n
+Mg O Mg o
+O Mg O i
+t
+a
+(a) What is the charge on these ions. d
+(b) How these ions get these charges.
+---CHUNK_SEPARATOR---
+n
+(c) Show with electron cross-dot diagrams the formation of these ions. u
+2: The diagrams below show the electronic
+o
+structures of an atom of calcium and an atom of
+oxygen. F
+Draw structures of the ions that are formed when
+k
+these atoms react. o
+3: Draw electron cross and dot structure for the
+following molecules: o
+(a) COCl , a poisonouBs gas called phosgene that has been used in World War-II.
+---CHUNK_SEPARATOR---
+2
+(b) HOCl, hypochlo rous acid is unstable, decomposes to liberate atomic oxygen
+l
+that makes HOCl a strong oxidizing agent.
+---CHUNK_SEPARATOR---
+a
+4: The table below shows the properties of four substances:
+n
+Electrical Conductivity
+o
+Substance Melting point In solid In molten
+i
+t state state
+a A High NIL NIL
+N B High NIL Good
+C Low NIL NIL
+D High Good Good
+(a) Which substance is a metal?
+(b) Which substance is an ionic compound?
+(c) Which substance is a covalent compound?
+(d) Which substance is a non-metal?
+4 Structure of Molecules 79
+5: Electronic configuration of two elements X and Y are given below:
+X = 1s22s22p63s2
+Y = 1s22s22p4
+Predict which of the following compounds is likely to form when X and Y react?
+Explain.
+---CHUNK_SEPARATOR---
+n
+(a) A covalent compound of formula XY o
+2
+(b) An ionic compound of formula XY i
+2 t
+a
+(c) An ionic compound of formula XY
+d
+(d) An ionic compound of formula X Y
+2
+n
+6: The following figure shows the electron dot and cross diagram of molecule AB. 2
+u
+Which of the elements could be A and B? Aparise.
+---CHUNK_SEPARATOR---
+o
+x x
+F
+x
+x x
+A B
+k
+x
+oB
+o
+B
+7: Illustrate the total number of shared electrons in a molecule of CO ?
+2
+l
+a
+n
+o
+i
+t
+a
+N
+n
+o
+i
+t
+a
+d
+n
+u
+o
+F
+k
+o
+o
+B
+l
+a
+n
+o
+i
+t
+a
+N
+n
+o
+i
+t
+a
+d
+n
+u
+o
+F
+k
+o
+o
+B
+l
+a
+n
+o
+i
+t
+a
+N.
+---CHUNK_SEPARATOR---
